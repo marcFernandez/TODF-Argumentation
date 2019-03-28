@@ -26,10 +26,14 @@ There are two ways to run the main file:
 Only python 2 is required
 
 ## Sources
-Argumentation for Collective Decision Making library from Juan A. Rodriguez-Aguilar (jar@iiia.csic.es)
+Argumentation for Collective Decision Making library from Juan A. Rodriguez-Aguilar (jar@iiia.csic.es):
 
 https://bitbucket.org/jariiia/argumentation-for-collective-decision-making
 
-Decidim Barcelona comments data
+Decidim Barcelona comments data:
 
 https://github.com/elaragon/metadecidim
+
+NAM-output is the output.txt file from commentevaluator created by Marc Serramià Amorós:
+
+https://bitbucket.org/msamsa/commentevaluator/src

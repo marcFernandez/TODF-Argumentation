@@ -1,6 +1,6 @@
 # TODF-Argumentation
 ## Overview
-This repository is an implementation of a family of aggregation functions that allow to make collective decisions in argumentation-based debates.
+This python based repository is an implementation of a family of aggregation functions that allow to make collective decisions in argumentation-based debates.
 
 It implements the aggregation functions defined in the following paper:
 

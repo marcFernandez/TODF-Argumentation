@@ -184,7 +184,7 @@ if __name__ == "__main__":
         print >> f, "Average result NaN proposals:", cp.avg_nan_count, "(" + str(float(cp.avg_nan_count) * 100 / it), "%)"
         print >> f, "Computable proposals:", cpa, "(" + str(cpa * 100 / it), "%)"
         print >> f, "The following percents are computed over the amount of computable proposals:"
-        print >> f, "WO and TODF:"
+        print >> f, "NAM and TODF:"
         print >> f, "\t- Matches:", cp.wo_todf_compare_match, "(" + str(float(cp.wo_todf_compare_match * 100 / cpa)), "%)"
         print >> f, "\t- Matches expanding:", cp.wo_todf_expanding, "(" + str(float(cp.wo_todf_expanding * 100 / cpa)), "%)"
         print >> f, "\t- Combined matches:", cp.wo_todf_expanding + cp.wo_todf_compare_match, "(" + str(

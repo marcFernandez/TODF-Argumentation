@@ -17,3 +17,6 @@ There are two ways to run the main file:
 * example.py path proposal proposal_num_files
 
 ![](example.PNG)
+
+## Requirements
+Only python 2 is required

@@ -1,16 +1,18 @@
 # TODF-Argumentation
 ## Overview
-This repository is an implementation of a family of aggregation functions that allow to make collective decisions in argumentation-based debates. It uses Decidim Barcelona comments as input data.
+This python based repository is an implementation of a family of aggregation functions that allow to make collective decisions in argumentation-based debates.
 
 It implements the aggregation functions defined in the following paper:
 
 **J. Ganzer-Ripoll, Natalia Criado, Maite López-Sánchez, Simon Parsons, Juan A. Rodríguez-Aguilar. COMBINING SOCIAL CHOICE THEORY AND ARGUMENTATION: ENABLING COLLECTIVE DECISION MAKING. Group Decision and Negotiation. Springer. 2018**
 
+It uses Decidim Barcelona comments as input data.
+
 ## Usage
 
 There are two ways to run the main file:
 1. If you want to compute all the comment files from a directory and get the two output files with
- some information about all computed proposals run 
+ some information about all computed proposals and the greater mismatches run
 
 * python example.py path
 

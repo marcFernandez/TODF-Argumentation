@@ -30,12 +30,6 @@ class CommentProcessing:
         self.defending = 0
         self.undec = 0
         self.res = ""
-        # with open("SerramiaOutput.txt") as sout:
-        #     for line in sout:
-        #         if "evaluation" in line:
-        #             a = line.replace("\'", "")
-        #             a = a.replace("\n\'", "")
-        #             self.results[a] = None
 
     # This function reads the file from 'path' and returns its content as a dictionary
     def comments_dict(self, pt=None):

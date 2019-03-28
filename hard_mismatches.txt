@@ -1,0 +1,487 @@
+Proposal 04379:
+Attack comments: 9 (47%)
+Defend comments: 10 (52%)
+Undec comments: 0 (0%)
+Total comments: 19
+Proposal TODF evaluation: OUT
+Proposal 04379 evaluation: 2.333333333333333
+Proposal 04379 evaluation with average:2.7142857142857144
+AVG and TODF methods: MISMATCH
+
+Proposal 09489:
+Attack comments: 0 (0%)
+Defend comments: 2 (100%)
+Undec comments: 0 (0%)
+Total comments: 2
+Proposal TODF evaluation: UNDEC
+Proposal 09489 evaluation with average:3.0
+Proposal 09489 evaluation: 5.0
+Wo and TODF methods: MISMATCH
+
+Proposal 00408:
+Attack comments: 1 (20%)
+Defend comments: 3 (60%)
+Undec comments: 1 (20%)
+Total comments: 5
+Proposal TODF evaluation: IN
+Proposal 00408 evaluation: 1.0
+Proposal 00408 evaluation with average:2.3333333333333335
+Wo and TODF methods: MISMATCH
+AVG and TODF methods: MISMATCH
+
+Proposal 01496:
+Attack comments: 2 (40%)
+Defend comments: 3 (60%)
+Undec comments: 0 (0%)
+Total comments: 5
+Proposal TODF evaluation: IN
+Proposal 01496 evaluation: 3.407731933756058
+Proposal 01496 evaluation with average:3.5714285714285716
+Wo and TODF methods: MISMATCH
+
+Proposal 00946:
+Attack comments: 2 (14%)
+Defend comments: 3 (21%)
+Undec comments: 9 (64%)
+Total comments: 14
+Proposal TODF evaluation: IN
+Proposal 00946 evaluation with average:3.6666666666666665
+Proposal 00946 evaluation: 3.0
+Wo and TODF methods: MISMATCH
+
+Proposal 01069:
+Attack comments: 1 (25%)
+Defend comments: 2 (50%)
+Undec comments: 1 (25%)
+Total comments: 4
+Proposal TODF evaluation: IN
+Proposal 01069 evaluation with average:3.4
+Proposal 01069 evaluation: 3.4
+Wo and TODF methods: MISMATCH
+AVG and TODF methods: MISMATCH
+
+Proposal 04171:
+Attack comments: 5 (31%)
+Defend comments: 10 (62%)
+Undec comments: 1 (6%)
+Total comments: 16
+Proposal TODF evaluation: OUT
+Proposal 04171 evaluation: 3.4187083364763793
+Proposal 04171 evaluation with average:3.3076923076923075
+Wo and TODF methods: MISMATCH
+AVG and TODF methods: MISMATCH
+
+Proposal 00414:
+Attack comments: 4 (40%)
+Defend comments: 4 (40%)
+Undec comments: 2 (20%)
+Total comments: 10
+Proposal TODF evaluation: IN
+Proposal 00414 evaluation: 3.6666666666666665
+Proposal 00414 evaluation with average:3.4
+AVG and TODF methods: MISMATCH
+
+Proposal 03399:
+Attack comments: 5 (45%)
+Defend comments: 6 (54%)
+Undec comments: 0 (0%)
+Total comments: 11
+Proposal TODF evaluation: IN
+Proposal 03399 evaluation with average:3.3703703703703702
+Proposal 03399 evaluation: 3.574424984988338
+AVG and TODF methods: MISMATCH
+
+Proposal 10430:
+Attack comments: 0
+Defend comments: 0
+Undec comments: 0
+Total comments: 0
+Proposal TODF evaluation: UNDEC
+WO and TODF methods: MATCH
+AVG and TODF methods: MISMATCH
+
+Proposal 04394:
+Attack comments: 4 (16%)
+Defend comments: 18 (75%)
+Undec comments: 2 (8%)
+Total comments: 24
+Proposal TODF evaluation: IN
+Proposal 04394 evaluation with average:3.1818181818181817
+Proposal 04394 evaluation: 3.6666666666666665
+AVG and TODF methods: MISMATCH
+
+Proposal 04403:
+Attack comments: 3 (75%)
+Defend comments: 1 (25%)
+Undec comments: 0 (0%)
+Total comments: 4
+Proposal TODF evaluation: OUT
+Proposal 04403 evaluation: 2.7443444692299854
+Proposal 04403 evaluation with average:2.7777777777777777
+Wo and TODF methods: MISMATCH
+AVG and TODF methods: MISMATCH
+
+Proposal 06038:
+Attack comments: 16 (45%)
+Defend comments: 18 (51%)
+Undec comments: 1 (2%)
+Total comments: 35
+Proposal TODF evaluation: IN
+Proposal 06038 evaluation with average:2.84
+Proposal 06038 evaluation: 2.7570266091082094
+Wo and TODF methods: MISMATCH
+AVG and TODF methods: MISMATCH
+
+Proposal 01451:
+Attack comments: 14 (56%)
+Defend comments: 9 (36%)
+Undec comments: 2 (8%)
+Total comments: 25
+Proposal TODF evaluation: OUT
+Proposal 01451 evaluation with average:2.789473684210526
+Proposal 01451 evaluation: 3.779908885860773
+Wo and TODF methods: MISMATCH
+AVG and TODF methods: MISMATCH
+
+Proposal 01410:
+Attack comments: 3 (33%)
+Defend comments: 5 (55%)
+Undec comments: 1 (11%)
+Total comments: 9
+Proposal TODF evaluation: IN
+Proposal 01410 evaluation with average:3.260869565217391
+Proposal 01410 evaluation: 3.117647058823528
+Wo and TODF methods: MISMATCH
+AVG and TODF methods: MISMATCH
+
+Proposal 01516:
+Attack comments: 2 (20%)
+Defend comments: 5 (50%)
+Undec comments: 3 (30%)
+Total comments: 10
+Proposal TODF evaluation: IN
+Proposal 01516 evaluation: 3.6666666666666665
+Proposal 01516 evaluation with average:3.3157894736842106
+AVG and TODF methods: MISMATCH
+
+Proposal 08584:
+Attack comments: 0
+Defend comments: 0
+Undec comments: 0
+Total comments: 0
+Proposal TODF evaluation: UNDEC
+WO and TODF methods: MATCH
+AVG and TODF methods: MISMATCH
+
+Proposal 03772:
+Attack comments: 1 (25%)
+Defend comments: 2 (50%)
+Undec comments: 1 (25%)
+Total comments: 4
+Proposal TODF evaluation: OUT
+Proposal 03772 evaluation with average:3.0
+Proposal 03772 evaluation: 3.6666666666666665
+Wo and TODF methods: MISMATCH
+AVG and TODF methods: MISMATCH
+
+Proposal 04520:
+Attack comments: 2 (40%)
+Defend comments: 2 (40%)
+Undec comments: 1 (20%)
+Total comments: 5
+Proposal TODF evaluation: IN
+Proposal 04520 evaluation with average:3.5454545454545454
+Proposal 04520 evaluation: 3.3999999999999986
+Wo and TODF methods: MISMATCH
+
+Proposal 01302:
+Attack comments: 7 (53%)
+Defend comments: 5 (38%)
+Undec comments: 1 (7%)
+Total comments: 13
+Proposal TODF evaluation: IN
+Proposal 01302 evaluation with average:3.0
+Proposal 01302 evaluation: 3.1827919313250543
+Wo and TODF methods: MISMATCH
+AVG and TODF methods: MISMATCH
+
+Proposal 01312:
+Attack comments: 10 (18%)
+Defend comments: 27 (49%)
+Undec comments: 18 (32%)
+Total comments: 55
+Proposal TODF evaluation: IN
+Proposal 01312 evaluation with average:3.3703703703703702
+Proposal 01312 evaluation: 3.1769588640718536
+Wo and TODF methods: MISMATCH
+AVG and TODF methods: MISMATCH
+
+Proposal 02651:
+Attack comments: 3 (30%)
+Defend comments: 6 (60%)
+Undec comments: 1 (10%)
+Total comments: 10
+Proposal TODF evaluation: IN
+Proposal 02651 evaluation with average:2.3333333333333335
+Proposal 02651 evaluation: 1.0
+Wo and TODF methods: MISMATCH
+AVG and TODF methods: MISMATCH
+
+Proposal 04324:
+Attack comments: 5 (55%)
+Defend comments: 4 (44%)
+Undec comments: 0 (0%)
+Total comments: 9
+Proposal TODF evaluation: OUT
+Proposal 04324 evaluation: 2.0
+Proposal 04324 evaluation with average:2.7142857142857144
+WO and TODF methods: MATCH
+AVG and TODF methods: MISMATCH
+
+Proposal 01308:
+Attack comments: 5 (33%)
+Defend comments: 10 (66%)
+Undec comments: 0 (0%)
+Total comments: 15
+Proposal TODF evaluation: IN
+Proposal 01308 evaluation with average:1.7272727272727273
+Proposal 01308 evaluation: 2.142857142857143
+Wo and TODF methods: MISMATCH
+AVG and TODF methods: MISMATCH
+
+Proposal 10266:
+Attack comments: 3 (23%)
+Defend comments: 8 (61%)
+Undec comments: 2 (15%)
+Total comments: 13
+Proposal TODF evaluation: IN
+Proposal 10266 evaluation with average:3.4347826086956523
+Proposal 10266 evaluation: 3.780534351145037
+AVG and TODF methods: MISMATCH
+
+Proposal 03168:
+Attack comments: 7 (58%)
+Defend comments: 5 (41%)
+Undec comments: 0 (0%)
+Total comments: 12
+Proposal TODF evaluation: OUT
+Proposal 03168 evaluation with average:2.75
+Proposal 03168 evaluation: 2.7777777777777777
+Wo and TODF methods: MISMATCH
+AVG and TODF methods: MISMATCH
+
+Proposal 03044:
+Attack comments: 1 (25%)
+Defend comments: 3 (75%)
+Undec comments: 0 (0%)
+Total comments: 4
+Proposal TODF evaluation: OUT
+Proposal 03044 evaluation: 3.0
+Proposal 03044 evaluation with average:2.6
+Wo and TODF methods: MISMATCH
+AVG and TODF methods: MISMATCH
+
+Proposal 01198:
+Attack comments: 8 (47%)
+Defend comments: 8 (47%)
+Undec comments: 1 (5%)
+Total comments: 17
+Proposal TODF evaluation: IN
+Proposal 01198 evaluation with average:3.3333333333333335
+Proposal 01198 evaluation: 3.6666666666666665
+AVG and TODF methods: MISMATCH
+
+Proposal 01425:
+Attack comments: 3 (30%)
+Defend comments: 2 (20%)
+Undec comments: 5 (50%)
+Total comments: 10
+Proposal TODF evaluation: IN
+Proposal 01425 evaluation with average:2.7777777777777777
+Proposal 01425 evaluation: 1.5334566812907504
+Wo and TODF methods: MISMATCH
+AVG and TODF methods: MISMATCH
+
+Proposal 01541:
+Attack comments: 3 (27%)
+Defend comments: 5 (45%)
+Undec comments: 3 (27%)
+Total comments: 11
+Proposal TODF evaluation: IN
+Proposal 01541 evaluation with average:3.0
+Proposal 01541 evaluation: 3.0
+Wo and TODF methods: MISMATCH
+AVG and TODF methods: MISMATCH
+
+Proposal 03574:
+Attack comments: 3 (30%)
+Defend comments: 6 (60%)
+Undec comments: 1 (10%)
+Total comments: 10
+Proposal TODF evaluation: IN
+Proposal 03574 evaluation with average:3.1818181818181817
+Proposal 03574 evaluation: NaN
+WO and TODF methods: MATCH
+AVG and TODF methods: MISMATCH
+
+Proposal 04826:
+Attack comments: 4 (28%)
+Defend comments: 4 (28%)
+Undec comments: 6 (42%)
+Total comments: 14
+Proposal TODF evaluation: OUT
+Proposal 04826 evaluation: 4.604188553026475
+Proposal 04826 evaluation with average:3.206896551724138
+Wo and TODF methods: MISMATCH
+AVG and TODF methods: MISMATCH
+
+Proposal 00911:
+Attack comments: 19 (39%)
+Defend comments: 20 (41%)
+Undec comments: 9 (18%)
+Total comments: 48
+Proposal TODF evaluation: IN
+Proposal 00911 evaluation with average:2.9375
+Proposal 00911 evaluation: 3.1089133159726847
+Wo and TODF methods: MISMATCH
+AVG and TODF methods: MISMATCH
+
+Proposal 01195:
+Attack comments: 11 (35%)
+Defend comments: 17 (54%)
+Undec comments: 3 (9%)
+Total comments: 31
+Proposal TODF evaluation: IN
+Proposal 01195 evaluation with average:3.440677966101695
+Proposal 01195 evaluation: 4.6381093422189315
+WO and TODF methods: MATCH
+AVG and TODF methods: MISMATCH
+
+Proposal 01112:
+Attack comments: 1 (9%)
+Defend comments: 4 (36%)
+Undec comments: 6 (54%)
+Total comments: 11
+Proposal TODF evaluation: IN
+Proposal 01112 evaluation with average:3.0
+Proposal 01112 evaluation: 2.7777777777777777
+Wo and TODF methods: MISMATCH
+AVG and TODF methods: MISMATCH
+
+Proposal 04309:
+Attack comments: 5 (50%)
+Defend comments: 3 (30%)
+Undec comments: 2 (20%)
+Total comments: 10
+Proposal TODF evaluation: IN
+Proposal 04309 evaluation: 3.4
+Proposal 04309 evaluation with average:3.4
+Wo and TODF methods: MISMATCH
+AVG and TODF methods: MISMATCH
+
+Proposal 01218:
+Attack comments: 2 (28%)
+Defend comments: 5 (71%)
+Undec comments: 0 (0%)
+Total comments: 7
+Proposal TODF evaluation: IN
+Proposal 01218 evaluation: 3.0
+Proposal 01218 evaluation with average:3.0869565217391304
+Wo and TODF methods: MISMATCH
+AVG and TODF methods: MISMATCH
+
+Proposal 00758:
+Attack comments: 0 (0%)
+Defend comments: 4 (100%)
+Undec comments: 0 (0%)
+Total comments: 4
+Proposal TODF evaluation: UNDEC
+Proposal 00758 evaluation with average:3.6666666666666665
+Proposal 00758 evaluation: 5.0
+Wo and TODF methods: MISMATCH
+
+Proposal 01404:
+Attack comments: 11 (55%)
+Defend comments: 9 (45%)
+Undec comments: 0 (0%)
+Total comments: 20
+Proposal TODF evaluation: IN
+Proposal 01404 evaluation with average:3.4285714285714284
+Proposal 01404 evaluation: 3.5348868676455396
+AVG and TODF methods: MISMATCH
+
+Proposal 00023:
+Attack comments: 0 (0%)
+Defend comments: 3 (75%)
+Undec comments: 1 (25%)
+Total comments: 4
+Proposal TODF evaluation: UNDEC
+Proposal 00023 evaluation with average:3.0
+Proposal 00023 evaluation: 5.0
+Wo and TODF methods: MISMATCH
+
+Proposal 09604:
+Attack comments: 0 (0%)
+Defend comments: 14 (87%)
+Undec comments: 2 (12%)
+Total comments: 16
+Proposal TODF evaluation: OUT
+Proposal 09604 evaluation with average:2.3333333333333335
+Proposal 09604 evaluation: 5.0
+Wo and TODF methods: MISMATCH
+
+Proposal 02811:
+Attack comments: 3 (60%)
+Defend comments: 1 (20%)
+Undec comments: 1 (20%)
+Total comments: 5
+Proposal TODF evaluation: OUT
+Proposal 02811 evaluation: 3.0
+Proposal 02811 evaluation with average:3.0
+Wo and TODF methods: MISMATCH
+AVG and TODF methods: MISMATCH
+
+Proposal 01337:
+Attack comments: 1 (20%)
+Defend comments: 3 (60%)
+Undec comments: 1 (20%)
+Total comments: 5
+Proposal TODF evaluation: IN
+Proposal 01337 evaluation with average:3.0
+Proposal 01337 evaluation: 3.0
+Wo and TODF methods: MISMATCH
+AVG and TODF methods: MISMATCH
+
+Proposal 02818:
+Attack comments: 2 (40%)
+Defend comments: 3 (60%)
+Undec comments: 0 (0%)
+Total comments: 5
+Proposal TODF evaluation: IN
+Proposal 02818 evaluation: NaN
+Proposal 02818 evaluation with average:3.2857142857142856
+WO and TODF methods: MATCH
+AVG and TODF methods: MISMATCH
+
+Proposal 02644:
+Attack comments: 2 (33%)
+Defend comments: 4 (66%)
+Undec comments: 0 (0%)
+Total comments: 6
+Proposal TODF evaluation: OUT
+Proposal 02644 evaluation: 3.0
+Proposal 02644 evaluation with average:2.7142857142857144
+Wo and TODF methods: MISMATCH
+AVG and TODF methods: MISMATCH
+
+Proposal 01333:
+Attack comments: 5 (31%)
+Defend comments: 8 (50%)
+Undec comments: 3 (18%)
+Total comments: 16
+Proposal TODF evaluation: IN
+Proposal 01333 evaluation: 2.417571869424794
+Proposal 01333 evaluation with average:3.206896551724138
+Wo and TODF methods: MISMATCH
+AVG and TODF methods: MISMATCH
+

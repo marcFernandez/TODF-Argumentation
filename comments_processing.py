@@ -66,6 +66,7 @@ class CommentProcessing:
                              'successor': None,
                              'target': True}
         if d:
+            self.processed_data = processed_data
             return self.processed_data
 
     # This method returns the profile, which is a list of all labellings that we need to represent our data graphically

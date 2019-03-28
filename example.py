@@ -36,6 +36,17 @@ if __name__ == "__main__":
 
         # directory = 'D:\INFO\metadecidim-master\metadecidim-master\comments'
         # '/home/marc/Desktop/metadecidim-master/comments'
+
+        temp_path = directory + '/' + str(proposal) + '-01.json'
+        data = cp.comments_dict(temp_path)
+        pdata = cp.get_dictionary_v2(data)
+
+        if num_files > 1:
+            for i in range(1, num_files+1):
+                temp_path = directory+'/'+str(proposal)+'-0'+str(i)+'.json'
+                data = cp.comments_dict(temp_path)
+                pdata = cp.get_dictionary_v2(None, pdata)
+
         cp.comments_dict()
 
         cp.get_dictionary_v2()

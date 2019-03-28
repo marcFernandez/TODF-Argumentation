@@ -1,8 +1,8 @@
 # TODF-Argumentation
 ## Overview
-This repository is an implementation of a family of aggregation functions that allow to make collective decisions in argumentation-based debates. over Decidim Barcelona comments.
+This repository is an implementation of a family of aggregation functions that allow to make collective decisions in argumentation-based debates. It uses Decidim Barcelona comments as input data.
 
-The paper implements the aggregation functions defined in the following paper:
+It implements the aggregation functions defined in the following paper:
 
 **J. Ganzer-Ripoll, Natalia Criado, Maite López-Sánchez, Simon Parsons, Juan A. Rodríguez-Aguilar. COMBINING SOCIAL CHOICE THEORY AND ARGUMENTATION: ENABLING COLLECTIVE DECISION MAKING. Group Decision and Negotiation. Springer. 2018**
 

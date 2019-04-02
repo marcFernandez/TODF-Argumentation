@@ -172,7 +172,7 @@ class CommentProcessing:
             print "Undec comments:", undec, "(" + str(undec * 100 / total), "%)"
             print "Total comments:", total
         else:
-            print "Total comments: 0
+            print "Total comments: 0"
 
     def write_output(self, propo=None, a=None, d=None, u=None, r=None, result=const.UNDEC):
         # the 'result' label will only be UNDEC by default if the graph does not contain any node defending nor

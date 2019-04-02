@@ -24,6 +24,17 @@ There are two ways to run the main file:
 
 ![](example.PNG)
 
+As you can see, there are different colours for nodes and edges. This correspond to the representation of the labels that both nodes and edges can have (as explained in the paper).
+
+Nodes:
+* Red -> OUT
+* Green -> IN
+* Yellow -> UNDEC
+
+Edges:
+* Red -> Attacking
+* Green -> Defending
+
 ## Requirements
 Only python 2 is required
 

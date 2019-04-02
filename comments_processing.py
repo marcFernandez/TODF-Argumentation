@@ -166,10 +166,13 @@ class CommentProcessing:
         defend = self.defending if d is None else d
         undec = self.undec if u is None else u
         total = attack + defend + undec
-        print "Attack comments:", attack, "(" + str(attack * 100 / total), "%)"
-        print "Defend comments:", defend, "(" + str(defend * 100 / total), "%)"
-        print "Undec comments:", undec, "(" + str(undec * 100 / total), "%)"
-        print "Total comments:", total
+        if total != 0:
+            print "Attack comments:", attack, "(" + str(attack * 100 / total), "%)"
+            print "Defend comments:", defend, "(" + str(defend * 100 / total), "%)"
+            print "Undec comments:", undec, "(" + str(undec * 100 / total), "%)"
+            print "Total comments:", total
+        else:
+            print "Total comments: 0
 
     def write_output(self, propo=None, a=None, d=None, u=None, r=None, result=const.UNDEC):
         # the 'result' label will only be UNDEC by default if the graph does not contain any node defending nor

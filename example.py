@@ -52,22 +52,71 @@ if __name__ == "__main__":
 
 		cp.get_dictionary_v2()
 
-		cp.show()
+		# cp.show()
 
 		calc = cp.get_graph()
 
-		# print nx.is_tree(G)
 		cp.show_stats()
 
 		cp.get_profile()
+
+		for prop in cp.processed_data:
+			if cp.processed_data[prop]['ancestry'] is not None:
+				cp.processed_data[cp.processed_data[prop]['ancestry']]['successor'] = prop
+
+		for prop in cp.processed_data:
+			print prop, cp.processed_data[prop]
 
 		collective_labelling = compute_collective_labelling(cp.G, cp.profile, CF)
 		decision = compute_collective_decition(collective_labelling, 0)
 
 		cp.profile.append(collective_labelling)
 		cp.titles.append('Collective decision')
-		pos = nx.spring_layout(cp.G, k=1, pos={0: (1, 2)})
-		print nx.is_tree(cp.G)
+		positions = {1: {0: (0.5, 1)}}
+		pos_fixed = {1: [0]}
+		px = 0
+		for node in cp.G.nodes():
+			if cp.processed_data[node]['ancestry'] is None and node != 0:
+				positions[1][node] = (px-1, 0.5)
+				pos_fixed[1].append(node)
+				px += 0.5
+
+		positions[1][0] = (-1+(px-0.5)/2, 1)
+
+		for node in pos_fixed[1]:
+			lvl = 1
+			current_node = node
+			while cp.processed_data[current_node]['successor'] is not None:
+				lvl += 1
+				try:
+					if pos_fixed[lvl] is None:
+						pos_fixed[lvl] = [cp.processed_data[current_node]['successor']]
+						positions[lvl] = {cp.processed_data[current_node]['successor']: (positions[lvl-1][current_node][0], positions[lvl-1][current_node][1]-1)}
+					else:
+						pos_fixed[lvl].append(cp.processed_data[current_node]['successor'])
+						positions[lvl][cp.processed_data[current_node]['successor']] = (positions[lvl-1][current_node][0], positions[lvl-1][current_node][1]-1)
+				except KeyError:
+					pos_fixed[lvl] = [cp.processed_data[current_node]['successor']]
+					positions[lvl] = {cp.processed_data[current_node]['successor']: (
+										positions[lvl - 1][current_node][0], positions[lvl - 1][current_node][1] - 0.5)}
+				current_node = cp.processed_data[current_node]['successor']
+
+		final_pos = {}
+		for pos_dict in positions.values():
+			final_pos.update(pos_dict)
+		final_fixed = []
+		for _list in pos_fixed.values():
+			final_fixed += _list
+
+		print '-------------'
+		print 'Final_pos'
+		print final_pos
+		print '-------------'
+		print 'Final_fixed'
+		print final_fixed
+		print '-------------'
+
+		pos = nx.spring_layout(cp.G, pos=final_pos, fixed=final_fixed)
 
 		drawProfile(cp.G, cp.profile, 0, cp.titles, pos)
 

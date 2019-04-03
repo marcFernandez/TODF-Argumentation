@@ -18,29 +18,31 @@ It uses Decidim Barcelona comments as input data.
 ## Usage
 
 There are two ways to run the main file:
-1. If you want to compute just one proposal and see it's output graph run
+<h4>1. If you want to compute just one proposal and see it's output graph run</h4>
 
 * python example.py path proposal proposal_num_files
-* e.g. 'python example.py ~/metadecidim-master/comments 00050 1'
+
+>e.g. 'python example.py ~/metadecidim-master/comments 00050 1'
 
 ![](example.PNG)
 
 As you can see, there are different colours for nodes and edges. This correspond to the representation of the labels that both nodes and edges can have (as explained in the paper).
 
-Nodes:
-* Red -> OUT
-* Green -> IN
-* Yellow -> UNDEC
+    Nodes:
+    - Red -> OUT
+    - Green -> IN
+    - Yellow -> UNDEC
 
-Edges:
-* Red -> Attacking
-* Green -> Defending
+    Edges:
+    - Red -> Attacking
+    - Green -> Defending
 
-2. If you want to compute all the comment files from a directory and get the two output files with
- some information about all computed proposals and the greater mismatches run
+<h4>2. If you want to compute all the comment files from a directory and get the two output files with
+ some information about all computed proposals and the greater mismatches run</h4>
 
 * python example.py path
-* e.g. 'python example.py ~/metadecidim-master/comments'
+
+>e.g. 'python example.py ~/metadecidim-master/comments'
 
 ![](output_example.PNG)
 

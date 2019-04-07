@@ -108,14 +108,6 @@ if __name__ == "__main__":
 		for _list in pos_fixed.values():
 			final_fixed += _list
 
-		print '-------------'
-		print 'Final_pos'
-		print final_pos
-		print '-------------'
-		print 'Final_fixed'
-		print final_fixed
-		print '-------------'
-
 		pos = nx.spring_layout(cp.G, pos=final_pos, fixed=final_fixed)
 
 		drawProfile(cp.G, cp.profile, 0, cp.titles, pos)

@@ -1,5 +1,5 @@
 # TODF-Argumentation
-Marc Fernández Font (markiff@gmail.com), in collaboration with [Maite López](http://www.maia.ub.es/~maite/) and Marc Serramià.
+Marc Fernández Font (markiff@gmail.com), in collaboration with [Maite López](http://www.maia.ub.es/~maite/) and Marc Serramià (marcserr@iiia.csic.es).
 ## Overview
 This python based repository is an implementation of a family of aggregation functions that allow to make collective decisions in argumentation-based debates.
 
@@ -59,6 +59,6 @@ Decidim Barcelona comments data:
 
 https://github.com/elaragon/metadecidim
 
-NAM-output is the output.txt file from commentevaluator created by Marc Serramià Amorós:
+NAM-output is the output.txt file from commentevaluator created by Marc Serramià Amorós (marcserr@iiia.csic.es):
 
 https://bitbucket.org/msamsa/commentevaluator/src

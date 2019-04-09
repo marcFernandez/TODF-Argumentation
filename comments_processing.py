@@ -55,7 +55,7 @@ class CommentProcessing:
                                                       'total_votes': comment['total_votes']},
                                              # , 'body': comment['body']
                                              'ancestry': None if comment['ancestry'] is None else anc,
-                                             'successor': None,
+                                             'successor': [],
                                              'target': True if comment['id'] in ['18244', '18245'] else False}
 
         processed_data[0] = {'data': {'label': None,
@@ -63,7 +63,7 @@ class CommentProcessing:
                                       'total_dislikes': None,
                                       'total_votes': None},  # , 'body': comment['body']
                              'ancestry': None,
-                             'successor': None,
+                             'successor': [],
                              'target': True}
         if d:
             self.processed_data = processed_data

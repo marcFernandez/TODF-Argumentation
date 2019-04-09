@@ -62,7 +62,7 @@ if __name__ == "__main__":
 
 		for prop in cp.processed_data:
 			if cp.processed_data[prop]['ancestry'] is not None:
-				cp.processed_data[cp.processed_data[prop]['ancestry']]['successor'] = prop
+				cp.processed_data[cp.processed_data[prop]['ancestry']]['successor'].append(prop)
 
 		for prop in cp.processed_data:
 			print prop, cp.processed_data[prop]
@@ -83,23 +83,25 @@ if __name__ == "__main__":
 
 		positions[1][0] = (-1+(px-0.5)/2, 1)
 
+		def rec_pos(nod, lvl, i):
+			try:
+				pos_fixed[lvl].append(nod)
+				positions[lvl][nod] = (positions[lvl-1][cp.processed_data[nod]['ancestry']][0] + i/1.75,
+									   positions[lvl-1][cp.processed_data[nod]['ancestry']][1] - 0.5)
+			except KeyError:
+				pos_fixed[lvl] = [nod]
+				positions[lvl] = {nod: (positions[lvl-1][cp.processed_data[nod]['ancestry']][0] + i/1.75,
+										positions[lvl-1][cp.processed_data[nod]['ancestry']][1] - 0.5)}
+			ct = 0
+			for succ in cp.processed_data[nod]['successor']:
+				rec_pos(succ, lvl + 1, ct)
+				ct += 1
+
 		for node in pos_fixed[1]:
-			lvl = 1
-			current_node = node
-			while cp.processed_data[current_node]['successor'] is not None:
-				lvl += 1
-				try:
-					if pos_fixed[lvl] is None:
-						pos_fixed[lvl] = [cp.processed_data[current_node]['successor']]
-						positions[lvl] = {cp.processed_data[current_node]['successor']: (positions[lvl-1][current_node][0], positions[lvl-1][current_node][1]-1)}
-					else:
-						pos_fixed[lvl].append(cp.processed_data[current_node]['successor'])
-						positions[lvl][cp.processed_data[current_node]['successor']] = (positions[lvl-1][current_node][0], positions[lvl-1][current_node][1]-1)
-				except KeyError:
-					pos_fixed[lvl] = [cp.processed_data[current_node]['successor']]
-					positions[lvl] = {cp.processed_data[current_node]['successor']: (
-										positions[lvl - 1][current_node][0], positions[lvl - 1][current_node][1] - 0.5)}
-				current_node = cp.processed_data[current_node]['successor']
+			cct = 0
+			for succ in cp.processed_data[node]['successor']:
+				rec_pos(succ, 2, cct)
+				cct += 1
 
 		final_pos = {}
 		for pos_dict in positions.values():

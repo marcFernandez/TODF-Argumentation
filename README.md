@@ -1,7 +1,7 @@
 # TODF-Argumentation
 Marc Fernández Font (markiff@gmail.com), in collaboration with [Maite López](http://www.maia.ub.es/~maite/) and Marc Serramià (marcserr@iiia.csic.es).
 ## Overview
-This python based repository is an update of the aggregation functions library<sup>[1]</sup> that allow to make collective decisions in argumentation-based debates. It works with networkx v2 and outputs a proper graphic representation.
+This python based repository is an update of the aggregation functions library<sup>[1]</sup> that allow to make collective decisions in argumentation-based debates. The updates allow you to use networkx v2 and outputs a proper graphic representation.
 
 It implements the aggregation functions defined in the following paper:
 

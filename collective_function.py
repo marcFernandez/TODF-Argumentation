@@ -14,7 +14,7 @@ def defending(G, argument):
     return [node for node in G if node in G.predecessors(argument) and G.edges[(node, argument)]['label'] == const.DEFENCE]
 
 
-# Returns the number of nodes from graph 'G' that match label 'label'
+# UNCOMMENTED #######################################################################################
 def count_labels(G, labelling, arguments, label):
     counter = 0
     for a in arguments:
@@ -23,7 +23,6 @@ def count_labels(G, labelling, arguments, label):
     return counter
 
 
-# UNCOMMENTED #######################################################################################
 def pro(G, labelling, argument):
     d = defending(G, argument)
     a = attacking(G, argument)

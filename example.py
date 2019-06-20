@@ -52,6 +52,7 @@ if __name__ == "__main__":
 
 		cp.get_dictionary_v2()
 
+		#
 		# cp.show()
 
 		calc = cp.get_graph()
@@ -75,6 +76,7 @@ if __name__ == "__main__":
 		positions = {1: {0: (0.5, 1)}}
 		pos_fixed = {1: [0]}
 		px = 0
+
 		for node in cp.G.nodes():
 			if cp.processed_data[node]['ancestry'] is None and node != 0:
 				positions[1][node] = (px-1, 0.5)

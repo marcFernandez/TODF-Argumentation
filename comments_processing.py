@@ -218,10 +218,10 @@ class CommentProcessing:
             self.avg_nan_count += 1
         else:  # compare results with the 3 different methods
             if self.compare(1, avg_eval, eval, result, prop, self.res):
-                self.res += "NAM and TODF methods: MATCH\n"
+                self.res += "PAM and TODF methods: MATCH\n"
                 self.wo_todf_compare_match += 1
             else:
-                self.res += "NAM and TODF methods: MISMATCH\n"
+                self.res += "PAM and TODF methods: MISMATCH\n"
                 self.wo_todf_compare_mismatch += 1
 
             if self.compare(2, avg_eval, eval, result, prop, self.res):
@@ -251,9 +251,9 @@ class CommentProcessing:
                     self.wo_todf_expanding += 1
                 else:
                     if prop in self.hard_mismatches.keys():
-                        self.hard_mismatches[prop] += "NAM and TODF methods: MISMATCH\n"
+                        self.hard_mismatches[prop] += "PAM and TODF methods: MISMATCH\n"
                     else:
-                        self.hard_mismatches[prop] = res + "NAM and TODF methods: MISMATCH\n"
+                        self.hard_mismatches[prop] = res + "PAM and TODF methods: MISMATCH\n"
                     return False
                 return False
         elif type == 2:  # TODF and AVG
@@ -274,7 +274,7 @@ class CommentProcessing:
                     if prop in self.hard_mismatches.keys():
                         self.hard_mismatches[prop] += "AVG and TODF methods: MISMATCH\n"
                     else:
-                        if "NAM and TODF methods: MISMATCH" in res:
+                        if "PAM and TODF methods: MISMATCH" in res:
                             banana = res.split('\n')[:-2]
                             res = ""
                             for s in banana:

@@ -49,6 +49,8 @@ if __name__ == "__main__":
 
         cp.get_dictionary_v2()
 
+        cp.processed_data
+
         calc = cp.get_graph()
 
         cp.show_stats()

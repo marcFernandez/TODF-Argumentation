@@ -76,12 +76,61 @@ if __name__ == "__main__":
     total_votes = 0
     i = 0
 
+    votes_dict = {
+        "> 1000    ": 0,
+        "900 - 1000": 0,
+        "800 - 900": 0,
+        "700 - 800": 0,
+        "600 - 700": 0,
+        "500 - 600": 0,
+        "400 - 500": 0,
+        "300 - 400": 0,
+        "200 - 300": 0,
+        "100 - 200": 0,
+        "75 - 100 ": 0,
+        "50 - 75  ": 0,
+        "25 - 50  ": 0,
+        "1 - 25   ": 0,
+        "0        ": 0
+    }
+
     for filename in os.listdir(directory):
         i += 1
         if filename[:5] != '03608':  # and filename[:5] != '04996' and filename[:5] != '07469':
             file_dict[filename] = proposal_reader(directory+filename)
 
             curr_votes = file_dict[filename]['proposal']['total_votes']
+
+            if curr_votes > 1000:
+                votes_dict["> 1000    "] += 1
+            elif curr_votes > 900:
+                votes_dict["900 - 1000"] += 1
+            elif curr_votes > 800:
+                votes_dict["800 - 900"] += 1
+            elif curr_votes > 700:
+                votes_dict["700 - 800"] += 1
+            elif curr_votes > 600:
+                votes_dict["600 - 700"] += 1
+            elif curr_votes > 500:
+                votes_dict["500 - 600"] += 1
+            elif curr_votes > 400:
+                votes_dict["400 - 500"] += 1
+            elif curr_votes > 300:
+                votes_dict["300 - 400"] += 1
+            elif curr_votes > 200:
+                votes_dict["200 - 300"] += 1
+            elif curr_votes > 100:
+                votes_dict["100 - 200"] += 1
+            elif curr_votes > 75:
+                votes_dict["75 - 100 "] += 1
+            elif curr_votes > 50:
+                votes_dict["50 - 75  "] += 1
+            elif curr_votes > 25:
+                votes_dict["25 - 50  "] += 1
+            elif curr_votes > 0:
+                votes_dict["1 - 25   "] += 1
+            else:
+                votes_dict["0        "] += 1
 
             total_votes += curr_votes
 
@@ -92,3 +141,7 @@ if __name__ == "__main__":
 
     print >> f, "\nMost voted prop "+most_voted_proposal+" has: "+str(most_voted)+" votes."
     print >> f, "Mean votes per proposal: "+str(total_votes/i)
+    print >> f, "\nVote interval \tNum votes"
+    for k in ["> 1000    ", "900 - 1000", "800 - 900", "700 - 800", "600 - 700", "500 - 600", "400 - 500", "300 - 400",
+              "200 - 300", "100 - 200", "75 - 100 ", "50 - 75  ", "25 - 50  ", "1 - 25   ", "0        "]:
+        print >> f, k+"\t\t\t"+str(votes_dict[k])  # +"\t\t\t"+str(100*votes_dict[k]/total_votes)+"%"

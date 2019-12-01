@@ -73,6 +73,7 @@ if __name__ == "__main__":
 
     PAM_results = {}
     TODF_results = {}
+    total_votes = {}
 
     with open("PAM_output.txt") as sout:
         for line in sout:
@@ -91,16 +92,22 @@ if __name__ == "__main__":
             prop = filename[:5]
             curr_votes = file_dict[filename]['proposal']['total_votes']
 
+            total_votes[prop] = curr_votes
+
             TODF_results[prop] = min((curr_votes/llindar)*(1+alpha)-1, 1)
 
     result_dict = {}
     f = open('opposite_proposals.txt', 'a')
 
+    opp_cnt = 0
     for prop in TODF_results.keys():
         result_dict[prop] = TODF_results[prop] + PAM_results[prop]
         if result_dict[prop] == 0 and (TODF_results[prop] != 0 or PAM_results[prop] != 0):
-            print >> f, "Proposal "+str(prop)+" has:"
+            print >> f, "Proposal "+str(prop)+" has "+str(total_votes[prop])+" votes:"
             print >> f, "\tIO: "+str(PAM_results[prop])
             print >> f, "\tDO: " + str(TODF_results[prop])
+            opp_cnt += 1
+
+    print >> f, "\nTotal opposite proposals: "+str(opp_cnt)
 
     exit(0)

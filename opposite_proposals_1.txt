@@ -1,9 +1,6 @@
 Proposal 07466 has 59 votes:
 	IO: -1.0
 	DO: 1
-Proposal 07853 has 2 votes:
-	IO: 1.0
-	DO: -1.0
 Proposal 01113 has 19 votes:
 	IO: -1.0
 	DO: 1
@@ -13,13 +10,16 @@ Proposal 05030 has 72 votes:
 Proposal 04556 has 15 votes:
 	IO: -1.0
 	DO: 1
-Proposal 07419 has 1 votes:
-	IO: 1.0
-	DO: -1.0
 Proposal 01144 has 120 votes:
 	IO: -1.0
 	DO: 1
+Proposal 06128 has 9 votes:
+	IO: -1.0
+	DO: 1
 Proposal 01250 has 10 votes:
+	IO: -1.0
+	DO: 1
+Proposal 03901 has 2 votes:
 	IO: -1.0
 	DO: 1
 Proposal 03679 has 20 votes:
@@ -37,13 +37,13 @@ Proposal 03588 has 59 votes:
 Proposal 00166 has 15 votes:
 	IO: -1.0
 	DO: 1
-Proposal 08535 has 3 votes:
-	IO: 1.0
-	DO: -1.0
 Proposal 01178 has 413 votes:
 	IO: -1.0
 	DO: 1
 Proposal 03745 has 27 votes:
+	IO: -1.0
+	DO: 1
+Proposal 03743 has 4 votes:
 	IO: -1.0
 	DO: 1
 Proposal 01153 has 69 votes:
@@ -52,18 +52,12 @@ Proposal 01153 has 69 votes:
 Proposal 03099 has 46 votes:
 	IO: -1.0
 	DO: 1
-Proposal 07273 has 1 votes:
-	IO: 1.0
-	DO: -1.0
 Proposal 01721 has 15 votes:
 	IO: -1.0
 	DO: 1
 Proposal 03983 has 11 votes:
 	IO: -1.0
 	DO: 1
-Proposal 06832 has 4 votes:
-	IO: 1.0
-	DO: -1.0
 Proposal 02639 has 11 votes:
 	IO: -1.0
 	DO: 1
@@ -82,6 +76,9 @@ Proposal 02651 has 34 votes:
 Proposal 01514 has 32 votes:
 	IO: -1.0
 	DO: 1
+Proposal 03353 has 6 votes:
+	IO: -1.0
+	DO: 1
 Proposal 01682 has 24 votes:
 	IO: -1.0
 	DO: 1
@@ -97,40 +94,37 @@ Proposal 02720 has 16 votes:
 Proposal 01529 has 68 votes:
 	IO: -1.0
 	DO: 1
-Proposal 01866 has 4 votes:
-	IO: 1.0
-	DO: -1.0
 Proposal 01661 has 28 votes:
 	IO: -1.0
 	DO: 1
 Proposal 02696 has 35 votes:
 	IO: -1.0
 	DO: 1
-Proposal 06768 has 1 votes:
-	IO: 1.0
-	DO: -1.0
+Proposal 06505 has 3 votes:
+	IO: -1.0
+	DO: 1
 Proposal 01363 has 56 votes:
 	IO: -1.0
 	DO: 1
 Proposal 01361 has 61 votes:
 	IO: -1.0
 	DO: 1
-Proposal 07921 has 4 votes:
-	IO: 1.0
-	DO: -1.0
+Proposal 04276 has 4 votes:
+	IO: -1.0
+	DO: 1
 Proposal 00383 has 28 votes:
 	IO: -1.0
 	DO: 1
 Proposal 00380 has 72 votes:
 	IO: -1.0
 	DO: 1
-Proposal 08567 has 2 votes:
-	IO: 1.0
-	DO: -1.0
 Proposal 02540 has 27 votes:
 	IO: -1.0
 	DO: 1
 Proposal 02635 has 11 votes:
+	IO: -1.0
+	DO: 1
+Proposal 04746 has 5 votes:
 	IO: -1.0
 	DO: 1
 Proposal 02750 has 21 votes:
@@ -139,21 +133,12 @@ Proposal 02750 has 21 votes:
 Proposal 01588 has 32 votes:
 	IO: -1.0
 	DO: 1
-Proposal 08617 has 2 votes:
-	IO: 1.0
-	DO: -1.0
-Proposal 04675 has 3 votes:
-	IO: 1.0
-	DO: -1.0
 Proposal 02799 has 25 votes:
 	IO: -1.0
 	DO: 1
 Proposal 01269 has 20 votes:
 	IO: -1.0
 	DO: 1
-Proposal 05768 has 4 votes:
-	IO: 1.0
-	DO: -1.0
 Proposal 03142 has 115 votes:
 	IO: -1.0
 	DO: 1
@@ -163,9 +148,12 @@ Proposal 04435 has 24 votes:
 Proposal 03665 has 13 votes:
 	IO: -1.0
 	DO: 1
-Proposal 09177 has 1 votes:
-	IO: 1.0
-	DO: -1.0
+Proposal 06384 has 6 votes:
+	IO: -1.0
+	DO: 1
+Proposal 02388 has 7 votes:
+	IO: -1.0
+	DO: 1
 Proposal 01126 has 85 votes:
 	IO: -1.0
 	DO: 1
@@ -184,37 +172,46 @@ Proposal 00408 has 52 votes:
 Proposal 02937 has 56 votes:
 	IO: -1.0
 	DO: 1
+Proposal 07953 has 4 votes:
+	IO: -1.0
+	DO: 1
+Proposal 05174 has 8 votes:
+	IO: -1.0
+	DO: 1
 Proposal 01655 has 26 votes:
 	IO: -1.0
 	DO: 1
 Proposal 01351 has 46 votes:
 	IO: -1.0
 	DO: 1
-Proposal 03855 has 4 votes:
-	IO: 1.0
-	DO: -1.0
 Proposal 01184 has 19 votes:
 	IO: -1.0
 	DO: 1
 Proposal 00580 has 23 votes:
 	IO: -1.0
 	DO: 1
+Proposal 06537 has 3 votes:
+	IO: -1.0
+	DO: 1
 Proposal 03786 has 26 votes:
 	IO: -1.0
 	DO: 1
-Proposal 10275 has 3 votes:
-	IO: 1.0
-	DO: -1.0
+Proposal 02886 has 8 votes:
+	IO: -1.0
+	DO: 1
 Proposal 01612 has 22 votes:
 	IO: -1.0
 	DO: 1
 Proposal 08548 has 0 votes:
 	IO: 1.0
 	DO: -1.0
-Proposal 09005 has 4 votes:
-	IO: 1.0
-	DO: -1.0
+Proposal 05382 has 3 votes:
+	IO: -1.0
+	DO: 1
 Proposal 03565 has 20 votes:
+	IO: -1.0
+	DO: 1
+Proposal 02575 has 8 votes:
 	IO: -1.0
 	DO: 1
 Proposal 05249 has 15 votes:
@@ -223,11 +220,8 @@ Proposal 05249 has 15 votes:
 Proposal 02677 has 13 votes:
 	IO: -1.0
 	DO: 1
-Proposal 03364 has 4 votes:
-	IO: 1.0
-	DO: -1.0
 Proposal 03509 has 16 votes:
 	IO: -1.0
 	DO: 1
 
-Total opposite proposals: 77
+Total opposite proposals: 75

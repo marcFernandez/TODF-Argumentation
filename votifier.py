@@ -89,8 +89,12 @@ if __name__ == "__main__":
         "100 - 200": 0,
         "75 - 100 ": 0,
         "50 - 75  ": 0,
-        "25 - 50  ": 0,
-        "1 - 25   ": 0,
+        "26 - 50  ": 0,
+        "21 - 25  ": 0,
+        "16 - 20  ": 0,
+        "11 - 15  ": 0,
+        "6 - 10   ": 0,
+        "1 - 5    ": 0,
         "0        ": 0
     }
 
@@ -126,9 +130,17 @@ if __name__ == "__main__":
             elif curr_votes > 50:
                 votes_dict["50 - 75  "] += 1
             elif curr_votes > 25:
-                votes_dict["25 - 50  "] += 1
+                votes_dict["26 - 50  "] += 1
+            elif curr_votes > 20:
+                votes_dict["21 - 25  "] += 1
+            elif curr_votes > 15:
+                votes_dict["16 - 20  "] += 1
+            elif curr_votes > 10:
+                votes_dict["11 - 15  "] += 1
+            elif curr_votes > 5:
+                votes_dict["6 - 10   "] += 1
             elif curr_votes > 0:
-                votes_dict["1 - 25   "] += 1
+                votes_dict["1 - 5    "] += 1
             else:
                 votes_dict["0        "] += 1
 
@@ -143,5 +155,17 @@ if __name__ == "__main__":
     print >> f, "Mean votes per proposal: "+str(total_votes/i)
     print >> f, "\nVote interval \tNum votes"
     for k in ["> 1000    ", "900 - 1000", "800 - 900", "700 - 800", "600 - 700", "500 - 600", "400 - 500", "300 - 400",
-              "200 - 300", "100 - 200", "75 - 100 ", "50 - 75  ", "25 - 50  ", "1 - 25   ", "0        "]:
+              "200 - 300", "100 - 200", "75 - 100 ",
+              "50 - 75  ",
+              "26 - 50  ",
+              "21 - 25  ",
+              "16 - 20  ",
+              "11 - 15  ",
+              "6 - 10   ",
+              "1 - 5    ",
+              "0        "]:
         print >> f, k+"\t\t\t"+str(votes_dict[k])  # +"\t\t\t"+str(100*votes_dict[k]/total_votes)+"%"
+
+# L=1; L=5;
+
+

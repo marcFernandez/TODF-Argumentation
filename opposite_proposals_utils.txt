@@ -1,0 +1,695 @@
+Proposal 07466 has 59 votes:
+	IO: -1.0
+	DO: 1
+Proposal 03770 has 8 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 07853 has 2 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 00083 has 22 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 07788 has 17 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 01597 has 20 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 01590 has 21 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 05030 has 72 votes:
+	IO: -1.0
+	DO: 1
+Proposal 00506 has 6 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 03699 has 17 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 03696 has 11 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 07419 has 1 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 01144 has 120 votes:
+	IO: -1.0
+	DO: 1
+Proposal 05751 has 6 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 04369 has 14 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 04955 has 16 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 04139 has 11 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 06464 has 17 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 01886 has 12 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 10357 has 5 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 03909 has 11 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 05434 has 16 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 08354 has 7 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 00104 has 6 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 00741 has 23 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 02422 has 17 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 02427 has 12 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 04449 has 24 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 01801 has 12 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 03464 has 17 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 01299 has 23 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 03588 has 59 votes:
+	IO: -1.0
+	DO: 1
+Proposal 08535 has 3 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 07575 has 17 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 07123 has 11 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 02407 has 17 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 01178 has 413 votes:
+	IO: -1.0
+	DO: 1
+Proposal 03949 has 11 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 03618 has 17 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 01507 has 11 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 01973 has 18 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 03342 has 15 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 02833 has 16 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 01152 has 22 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 01153 has 69 votes:
+	IO: -1.0
+	DO: 1
+Proposal 07251 has 8 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 06072 has 7 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 03967 has 21 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 03633 has 11 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 02383 has 20 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 06444 has 9 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 06454 has 15 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 07273 has 1 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 06832 has 4 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 04293 has 13 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 06938 has 0 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 03147 has 11 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 05206 has 19 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 01114 has 24 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 03173 has 16 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 05106 has 10 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 00889 has 63 votes:
+	IO: -1.0
+	DO: 1
+Proposal 04502 has 23 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 04503 has 18 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 01515 has 22 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 06954 has 20 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 01683 has 17 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 01688 has 17 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 03824 has 10 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 00228 has 276 votes:
+	IO: -1.0
+	DO: 1
+Proposal 06010 has 8 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 05169 has 12 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 00418 has 13 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 01325 has 17 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 03251 has 20 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 01529 has 68 votes:
+	IO: -1.0
+	DO: 1
+Proposal 01866 has 4 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 04048 has 12 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 01692 has 11 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 06435 has 6 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 01463 has 24 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 02692 has 22 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 02691 has 18 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 01341 has 13 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 06603 has 6 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 03622 has 6 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 05557 has 8 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 08232 has 9 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 08238 has 22 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 04068 has 12 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 06768 has 1 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 01363 has 56 votes:
+	IO: -1.0
+	DO: 1
+Proposal 01361 has 61 votes:
+	IO: -1.0
+	DO: 1
+Proposal 07592 has 12 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 06905 has 12 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 01567 has 22 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 03845 has 8 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 03849 has 15 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 09291 has 8 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 04666 has 17 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 08212 has 16 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 07921 has 4 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 07505 has 12 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 00806 has 16 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 05171 has 19 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 04492 has 5 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 00380 has 72 votes:
+	IO: -1.0
+	DO: 1
+Proposal 08567 has 2 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 09489 has 8 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 01603 has 11 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 02776 has 11 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 06723 has 15 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 00396 has 20 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 00820 has 17 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 00825 has 19 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 02547 has 7 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 05704 has 8 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 05701 has 5 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 04824 has 11 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 08604 has 5 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 06280 has 18 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 03397 has 20 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 03186 has 24 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 03180 has 13 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 03183 has 23 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 08617 has 2 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 05007 has 11 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 09581 has 16 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 01203 has 20 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 03515 has 11 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 04984 has 21 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 02031 has 22 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 01444 has 24 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 04675 has 3 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 05218 has 16 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 08557 has 11 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 00097 has 24 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 06137 has 7 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 09218 has 8 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 05768 has 4 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 05762 has 7 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 03142 has 115 votes:
+	IO: -1.0
+	DO: 1
+Proposal 02147 has 9 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 00116 has 12 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 01485 has 19 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 03904 has 23 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 02713 has 14 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 03902 has 24 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 04923 has 14 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 04924 has 17 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 06437 has 5 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 06439 has 5 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 08010 has 11 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 00153 has 13 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 03596 has 18 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 02411 has 12 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 02418 has 11 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 05295 has 17 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 00364 has 22 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 01148 has 13 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 01575 has 21 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 00968 has 15 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 09565 has 5 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 04733 has 16 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 07286 has 10 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 06389 has 11 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 09177 has 1 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 01126 has 85 votes:
+	IO: -1.0
+	DO: 1
+Proposal 06951 has 8 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 00949 has 12 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 00947 has 16 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 07685 has 12 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 10616 has 0 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 03628 has 10 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 02621 has 18 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 02625 has 16 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 03624 has 14 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 04753 has 5 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 03086 has 16 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 06451 has 16 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 02362 has 18 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 09482 has 5 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 08286 has 5 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 05348 has 12 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 06027 has 14 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 09870 has 19 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 00462 has 16 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 02643 has 14 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 04779 has 6 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 02676 has 17 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 00408 has 52 votes:
+	IO: -1.0
+	DO: 1
+Proposal 02663 has 11 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 02662 has 19 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 04797 has 11 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 02937 has 56 votes:
+	IO: -1.0
+	DO: 1
+Proposal 00796 has 22 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 09245 has 9 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 04100 has 7 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 01676 has 13 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 07954 has 8 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 06793 has 6 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 01533 has 7 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 05544 has 21 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 04050 has 8 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 03001 has 21 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 07653 has 15 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 01634 has 17 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 03855 has 4 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 02722 has 23 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 02131 has 16 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 10275 has 3 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 04297 has 21 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 05193 has 16 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 00023 has 24 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 03254 has 11 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 01613 has 22 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 00811 has 18 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 02552 has 11 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 02555 has 5 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 08548 has 0 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 09005 has 4 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 03382 has 5 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 03400 has 14 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 03566 has 23 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 04837 has 15 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 04559 has 16 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 03505 has 10 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 04633 has 20 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 03369 has 6 votes:
+	IO: 1.0
+	DO: -1.0
+Proposal 03364 has 4 votes:
+	IO: 1.0
+	DO: -1.0
+
+Total opposite proposals: 230
+Over L votes: 16
+Under L votes: 214
+	07466 05030 01144 03588 01178 01153 00889 00228 01529 01363 01361 00380 03142 01126 00408 02937 

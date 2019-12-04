@@ -66,7 +66,7 @@ def proposal_reader(path):
 
 
 alpha = 0.3
-llindar = 5
+llindar = 25  # 37
 
 
 if __name__ == "__main__":
@@ -97,17 +97,30 @@ if __name__ == "__main__":
             TODF_results[prop] = min((curr_votes/llindar)*(1+alpha)-1, 1)
 
     result_dict = {}
-    f = open('opposite_proposals.txt', 'a')
+    f = open('opposite_proposals_utils.txt', 'a')
 
     opp_cnt = 0
+
+    upperL = 0
+    underL = 0
+    upperLstr = ""
+
     for prop in TODF_results.keys():
         result_dict[prop] = TODF_results[prop] + PAM_results[prop]
-        if result_dict[prop] == 0 and (TODF_results[prop] != 0 or PAM_results[prop] != 0):
+        if result_dict[prop] == 0 and (TODF_results[prop] != 0 or PAM_results[prop] != 0) and str(TODF_results[prop]) != 'nan' and str(PAM_results[prop]) != 'nan':
+            if total_votes[prop] > llindar:
+                upperL += 1
+                upperLstr += prop+" "
+            else:
+                underL += 1
             print >> f, "Proposal "+str(prop)+" has "+str(total_votes[prop])+" votes:"
             print >> f, "\tIO: "+str(PAM_results[prop])
             print >> f, "\tDO: " + str(TODF_results[prop])
             opp_cnt += 1
 
     print >> f, "\nTotal opposite proposals: "+str(opp_cnt)
+    print >> f, "Over L votes: "+str(upperL)
+    print >> f, "Under L votes: "+str(underL)
+    print >> f, "\t"+upperLstr
 
     exit(0)

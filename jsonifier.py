@@ -2,6 +2,7 @@ import os
 import json
 import sys
 import json
+from progressbar import ProgressBar
 
 
 def proposal_reader(path):
@@ -14,15 +15,17 @@ if __name__ == "__main__":
 
     comments_dict = {}
 
+    pbar = ProgressBar()
+
     directory = "/Users/demo/Documents/metadecidim-master/comments/"
     prop_directory = "/Users/demo/Documents/metadecidim-master/proposals/"
 
-    for filename in ['00400-01.json', '00400-02.json']:  # os.listdir(directory):
+    last_prop = "08584"
+    changeProp = False
+
+    for filename in pbar(os.listdir(directory)):
         curr_prop = filename[:5]
         curr_prop_json = proposal_reader(directory + filename)
-
-        if len(curr_prop_json["comments"]) != 0:
-            continue
 
         try:
             comments_dict[curr_prop]
@@ -41,10 +44,10 @@ if __name__ == "__main__":
                 "total_likes": comment["total_dislikes"],
                 "total_votes": comment["total_votes"]
             })
+        if curr_prop != '00000':
+            curr_prop_metadata = proposal_reader(prop_directory + filename[:5] + '.json')
 
-        curr_prop_metadata = proposal_reader(prop_directory + filename[:5] + '.json')
-
-        if filename[5:8] == '-01':
+        if filename[5:8] == '-01' and curr_prop != '00000':
             comments_dict[curr_prop]["info"] = {
                 "summary": curr_prop_metadata["proposal"]["summary"],
                 "title": curr_prop_metadata["proposal"]["title"],
@@ -55,14 +58,9 @@ if __name__ == "__main__":
                 "total_votes": curr_prop_metadata["proposal"]["total_votes"]
             }
 
-    output_file = 'prop_'+curr_prop+'.json'
-    with open(output_file, 'w') as outfile:
-        json.dump(comments_dict[curr_prop], outfile, indent=4, sort_keys=True)
-
-        # "summary": "Prioritzar actuacions per millorar la mobilitat al barri de la Font d\u2019en Fargues.",
-        # "title": "Urbanitzaci\u00f3 de la davallada de Gallecs",
-        # "total_comments": 33,
-        # "total_negative_comments": 0,
-        # "total_neutral_comments": 4,
-        # "total_positive_comments": 29,
-        # "total_votes": 146,
+        if curr_prop != last_prop and curr_prop != '00000':
+            output_file = 'prop_' + last_prop + '.json'
+            with open(output_file, 'w') as outfile:
+                json.dump(comments_dict[last_prop], outfile, indent=4, sort_keys=True)
+                outfile.close()
+            last_prop = curr_prop

@@ -212,6 +212,8 @@ def drawProfile(G, profile, target, titles, position):
 
     iterTitles = iter(titles)
 
+    profile = [profile[len(profile)-1]]
+
     for labelling in profile:
 
         inNodes = [node for node in G if labelling[node] == const.IN]

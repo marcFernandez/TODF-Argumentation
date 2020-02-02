@@ -83,8 +83,8 @@ def comments_to_dict(comments_array):
 
         comments_dict[comment_obj['id']] = {
             "alignment": comment_obj['alignment'],
-            "ancestry": anc if comment_obj['ancestry'] else 0,
-            "successor": [],
+            "ancestry": int(anc) if comment_obj['ancestry'] else 0,
+            "successors": [],
             "body": comment_obj['body'],
             "id": comment_obj['id'],
             "modified_alignment": comment_obj['modified_alignment'],
@@ -94,8 +94,11 @@ def comments_to_dict(comments_array):
         }
 
     comments_dict[0] = {
-        'successor': [],
-        'ancestry': None
+        'successors': [],
+        'ancestry': None,
+        "total_dislikes": None,
+        "total_likes": None,
+        "total_votes": None
     }
 
     return comments_dict
@@ -123,89 +126,87 @@ if __name__ == "__main__":
     undecided_comments = list()
 
     # Here we fill that lists of comments to be 'PAMified'
-    for comment in comments_dict:
+    # for comment in comments_dict:
+    #
+    #     current_todf_dict = dict()
+    #     current_target_id = comment['id']
+    #
+    #     if comment['modified_alignment'] == 1:
+    #         # Here we have a positive argument over which we need to compute its own TODF
+    #         current_todf_dict[current_target_id] = comment
+    #         current_todf_dict[current_target_id]['ancestry'] = None
+    #         for child_comment in current_todf_dict[current_target_id]['successors']:
+    #             pass
+    #
+    #     elif comment['modified_alignment'] == 0:
+    #         pass
+    #     else:
+    #         pass
 
-        current_todf_dict = dict()
-        current_target_id = comment['id']
+    cp = tfg_comments_processing.CommentProcessing()
 
-        if comment['modified_alignment'] == 1:
-            # Here we have a positive argument over which we need to compute its own TODF
-            current_todf_dict[]
-            pass
-        elif comment['modified_alignment'] == 0:
-            pass
-        else:
-            pass
+    cp.get_profile(comments_dict)
+
+    comments_graph = cp.get_graph(comments_dict)
+
+    collective_labelling = compute_collective_labelling(cp.G, cp.profile, CF)
+
+    if collective_labelling == {}:
+        print "There are no comments, exiting."
+        exit(0)
+
+    print collective_labelling
+
+    decision = compute_collective_decition(collective_labelling, 0)
+
+    cp.profile.append(collective_labelling)
+    cp.titles.append('Collective decision')
+
+    ###############################################
+
+    positions = {1: {0: (0.5, 1)}}
+    pos_fixed = {1: [0]}
+    px = 0
+
+    for node in cp.G.nodes():
+        if cp.G.has_predecessor(0, node):
+            positions[1][node] = (px - 1, 0.5)
+            pos_fixed[1].append(node)
+            px += 0.5
 
 
+    def recursive_positioning(G, node, lvl, i):
+        try:
+            pos_fixed[lvl].append(node)
+            positions[lvl][node] = (positions[lvl - 1][G.succ[node].keys()[0]][0] + i / 1.75,
+                                    positions[lvl - 1][G.succ[node].keys()[0]][1] - 0.5)
+        except KeyError:
+            pos_fixed[lvl] = [node]
+            positions[lvl] = {node: (positions[lvl - 1][G.succ[node].keys()[0]][0] + i / 1.75,
+                                     positions[lvl - 1][G.succ[node].keys()[0]][1] - 0.5)}
+        ct = 0
+        for succ in G.predecessors(node):
+            recursive_positioning(cp.G, succ, lvl + 1, ct)
+            ct += 1
 
-    exit(0)
 
+    for node in pos_fixed[1]:
+        cct = 0
+        for succ in cp.G.predecessors(node):
+            recursive_positioning(cp.G, succ, 2, cct)
+            cct += 1
 
+    positions[1][0] = (0.5 + px / 2, 1)
 
+    final_pos = {}
+    for pos_dict in positions.values():
+        final_pos.update(pos_dict)
+    final_fixed = []
+    for _list in pos_fixed.values():
+        final_fixed += _list
 
+    pos = nx.spring_layout(cp.G, pos=final_pos, fixed=final_fixed)
 
-
-
-
-
-    results = {}
-
-    with open("PAM_output.txt") as sout:
-        for line in sout:
-            if "evaluation" in line:
-                a = line.replace("\'", "")
-                a = a.replace("\n\'", "")
-                results[a] = None
-
-    props = proposal_reader('/Users/demo/Documents/metadecidim-master/proposals/00050.json')
-
-    print props['proposal']['total_votes']
-
-    directory = '/Users/demo/Documents/metadecidim-master/comments'
-
-    num_files = 1
-    proposal = '00050'
-
-    cp = tfg_comments_processing.CommentProcessing(str(directory), results, str(proposal))
-
-    temp_path = directory + '/' + str(proposal) + '-01.json'
-    data = cp.comments_dict(temp_path)
-    pdata = cp.get_dictionary_v2(data)
-
-    if num_files > 1:
-        for i in range(1, num_files + 1):
-            temp_path = directory + '/' + str(proposal) + '-0' + str(i) + '.json'
-            data = cp.comments_dict(temp_path)
-            pdata = cp.get_dictionary_v2(None, pdata)
-
-    cp.comments_dict()
-
-    cp.get_dictionary_v2()
-
-    comments_dict = cp.processed_data
-
-    # print_comment(comments_dict, 1)
-
-    nam_dict, nam_edges = get_graph_dict_nam(comments_dict)
-
-    nam_input = "n,,-1,1\n"
-
-    posIdx = 1
-    negIdx = 1
-
-    for arg in nam_dict:
-        nam_input += ("true,posarg"+str(posIdx)) if nam_dict[arg]['label'] == const.DEFENCE else ("false,negarg"+str(negIdx))
-        if nam_dict[arg]['label'] == const.DEFENCE: posIdx += 1
-        else: negIdx += 1
-        for _ in range(nam_dict[arg]['votes']['likes']):
-            nam_input += ',1'
-        for _ in range(nam_dict[arg]['votes']['dislikes']):
-            nam_input += ',-1'
-        nam_input += '\n'
-
-    if len(sys.argv) != 1:
-        if sys.argv[1] == 'print':
-            print nam_input
+    drawProfile(cp.G, cp.profile, 0, cp.titles, pos)
 
     exit(0)

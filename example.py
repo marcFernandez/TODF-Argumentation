@@ -49,7 +49,7 @@ if __name__ == "__main__":
 
         cp.get_dictionary_v2()
 
-        cp.processed_data
+        # cp.processed_data
 
         calc = cp.get_graph()
 
@@ -66,6 +66,8 @@ if __name__ == "__main__":
         if collective_labelling == {}:
             print "There are no comments, exiting."
             exit(0)
+
+        print collective_labelling
 
         decision = compute_collective_decition(collective_labelling, 0)
 
@@ -139,6 +141,7 @@ if __name__ == "__main__":
         # 		cct += 1
 
         ###############################################
+
         final_pos = {}
         for pos_dict in positions.values():
             final_pos.update(pos_dict)

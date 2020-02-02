@@ -1,7 +1,7 @@
 import json
 
-import comments_processing
-from collective_function import *
+import tfg_comments_processing
+from tfg_collective_function import *
 import sys
 
 
@@ -64,11 +64,90 @@ def proposal_reader(path):
         return data
 
 
+# {
+#     "alignment": 1,
+#     "ancestry": null,
+#     "body": "blah blah",
+#     "id": 1969,
+#     "modified_alignment": 1,
+#     "total_dislikes": 0,
+#     "total_likes": 0,
+#     "total_votes": 4
+# },
+def comments_to_dict(comments_array):
+    comments_dict = dict()
+    for comment_obj in comments_array:
+
+        ancestry = str(comment_obj['ancestry']).replace("u\'", "").replace("\'", "")
+        anc = ancestry.split("/")[len(ancestry.split("/")) - 1]
+
+        comments_dict[comment_obj['id']] = {
+            "alignment": comment_obj['alignment'],
+            "ancestry": anc if comment_obj['ancestry'] else 0,
+            "successor": [],
+            "body": comment_obj['body'],
+            "id": comment_obj['id'],
+            "modified_alignment": comment_obj['modified_alignment'],
+            "total_dislikes": comment_obj['total_dislikes'],
+            "total_likes": comment_obj['total_votes'] - comment_obj['total_dislikes'],
+            "total_votes": comment_obj['total_votes']
+        }
+
+    comments_dict[0] = {
+        'successor': [],
+        'ancestry': None
+    }
+
+    return comments_dict
+
+
 PATH = 'D:\\INFO\\Projects\\TODF-Argumentation\\ProcessedProposals'
 CURRENT_PROP = 'Prop_01256.json'
 
 
 if __name__ == "__main__":
+
+    # First of all we read the data from a json file
+    raw_data = proposal_reader(PATH+'/'+CURRENT_PROP)
+
+    # We then store each field in a separated variable
+    proposal_info = raw_data['info']
+    comments_array = raw_data['comments']
+
+    # We then get the comments dictionary with all the relevant information we will use
+    comments_dict = comments_to_dict(comments_array)
+
+    # Then we define a variable for each type of comment we will convert into a PAM comment
+    defending_comments = list()
+    attacking_comments = list()
+    undecided_comments = list()
+
+    # Here we fill that lists of comments to be 'PAMified'
+    for comment in comments_dict:
+
+        current_todf_dict = dict()
+        current_target_id = comment['id']
+
+        if comment['modified_alignment'] == 1:
+            # Here we have a positive argument over which we need to compute its own TODF
+            current_todf_dict[]
+            pass
+        elif comment['modified_alignment'] == 0:
+            pass
+        else:
+            pass
+
+
+
+    exit(0)
+
+
+
+
+
+
+
+
 
     results = {}
 
@@ -88,7 +167,7 @@ if __name__ == "__main__":
     num_files = 1
     proposal = '00050'
 
-    cp = comments_processing.CommentProcessing(str(directory), results, str(proposal))
+    cp = tfg_comments_processing.CommentProcessing(str(directory), results, str(proposal))
 
     temp_path = directory + '/' + str(proposal) + '-01.json'
     data = cp.comments_dict(temp_path)

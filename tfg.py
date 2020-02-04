@@ -1,3 +1,4 @@
+import copy
 import json
 
 import tfg_comments_processing
@@ -104,6 +105,13 @@ def comments_to_dict(comments_array):
     return comments_dict
 
 
+def save_json(filename, json_data):
+    with open(filename, 'w') as outfile:
+        json.dump(json_data, outfile, indent=4, sort_keys=True)
+        outfile.close()
+    print('''File {filename} saved!''')
+
+
 PATH = 'D:\\INFO\\Projects\\TODF-Argumentation\\ProcessedProposals'
 CURRENT_PROP = 'Prop_01256.json'
 
@@ -120,28 +128,12 @@ if __name__ == "__main__":
     # We then get the comments dictionary with all the relevant information we will use
     comments_dict = comments_to_dict(comments_array)
 
+    decision_results = copy.deepcopy(comments_dict)
+
     # Then we define a variable for each type of comment we will convert into a PAM comment
     defending_comments = list()
     attacking_comments = list()
     undecided_comments = list()
-
-    # Here we fill that lists of comments to be 'PAMified'
-    # for comment in comments_dict:
-    #
-    #     current_todf_dict = dict()
-    #     current_target_id = comment['id']
-    #
-    #     if comment['modified_alignment'] == 1:
-    #         # Here we have a positive argument over which we need to compute its own TODF
-    #         current_todf_dict[current_target_id] = comment
-    #         current_todf_dict[current_target_id]['ancestry'] = None
-    #         for child_comment in current_todf_dict[current_target_id]['successors']:
-    #             pass
-    #
-    #     elif comment['modified_alignment'] == 0:
-    #         pass
-    #     else:
-    #         pass
 
     cp = tfg_comments_processing.CommentProcessing()
 
@@ -155,7 +147,7 @@ if __name__ == "__main__":
         print "There are no comments, exiting."
         exit(0)
 
-    print collective_labelling
+    # print collective_labelling
 
     decision = compute_collective_decition(collective_labelling, 0)
 
@@ -207,6 +199,17 @@ if __name__ == "__main__":
 
     pos = nx.spring_layout(cp.G, pos=final_pos, fixed=final_fixed)
 
-    drawProfile(cp.G, cp.profile, 0, cp.titles, pos)
+    print cp.profile[len(cp.profile)-1]
+
+    decision = cp.profile[len(cp.profile)-1]
+
+    # drawProfile(cp.G, cp.profile, 0, cp.titles, pos)
+
+    for comment_id in decision.keys():
+        decision_results[comment_id]['result'] = decision[comment_id]
+
+    decision_results[0]['total_likes'] = proposal_info['total_votes']
+
+    save_json('results_'+CURRENT_PROP, decision_results)
 
     exit(0)

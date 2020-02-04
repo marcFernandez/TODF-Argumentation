@@ -1,5 +1,4 @@
-import json
-from collective_function import *
+import copy
 from generator import *
 
 
@@ -15,7 +14,7 @@ class CommentProcessing:
     # enough for our purposes.
     def get_profile(self, data):
         d = data
-        d_copy = d.copy()
+        d_copy = copy.deepcopy(d)
         num_labels = 0
         labeling = {}
 

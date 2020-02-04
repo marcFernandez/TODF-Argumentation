@@ -212,4 +212,22 @@ if __name__ == "__main__":
 
     save_json('results_'+CURRENT_PROP, decision_results)
 
+    nam_input = "n,,-1,1\n"
+
+    for comment_id in decision_results.keys():
+
+        if decision_results[comment_id]["ancestry"] == 0 and decision_results[comment_id]["result"] == "IN":
+            nam_input += \
+                ("true,posarg_"+str(comment_id)) \
+                if decision_results[comment_id]["modified_alignment"] == 1\
+                else ("false,negarg_"+str(comment_id))
+
+            for _ in range(decision_results[comment_id]["total_likes"]):
+                nam_input += ',1'
+            for _ in range(decision_results[comment_id]["total_dislikes"]):
+                nam_input += ',-1'
+            nam_input += '\n'
+
+    print nam_input
+
     exit(0)

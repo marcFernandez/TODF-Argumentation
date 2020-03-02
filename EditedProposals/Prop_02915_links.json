@@ -1,0 +1,633 @@
+{
+    "comments": [
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/incrementar-els-convenis-vinculats-a-entitats-per-programes-determinats\">https://decidim.barcelona/proposals/incrementar-els-convenis-vinculats-a-entitats-per-programes-determinats</a></p>", 
+            "id": 12911, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/posar-un-establiment-de-restauracio-als-parcs-i-jardins-que-gestioni-l-espai-horaris\">https://decidim.barcelona/proposals/posar-un-establiment-de-restauracio-als-parcs-i-jardins-que-gestioni-l-espai-horaris</a></p>", 
+            "id": 16604, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/canviar-els-circuits-per-on-es-desenvolupen-les-curses-per-no-afectar-el-comerc\">https://decidim.barcelona/proposals/canviar-els-circuits-per-on-es-desenvolupen-les-curses-per-no-afectar-el-comerc</a></p>", 
+            "id": 9664, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/regulacio-de-centres-comercials\">https://decidim.barcelona/proposals/regulacio-de-centres-comercials</a></p>", 
+            "id": 9667, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/revisar-els-projectes-de-foment-del-comerc-de-proximitat-fet-anteriorment\">https://decidim.barcelona/proposals/revisar-els-projectes-de-foment-del-comerc-de-proximitat-fet-anteriorment</a></p>", 
+            "id": 9696, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/agilitat-amb-les-subvencions-al-comerc\">https://decidim.barcelona/proposals/agilitat-amb-les-subvencions-al-comerc</a></p>", 
+            "id": 9714, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/facilitar-espais-comuns-als-edificis\">https://decidim.barcelona/proposals/facilitar-espais-comuns-als-edificis</a></p>", 
+            "id": 9725, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/utilitzar-els-espais-de-tmb-per-fer-difusio-del-comerc-de-proximitat\">https://decidim.barcelona/proposals/utilitzar-els-espais-de-tmb-per-fer-difusio-del-comerc-de-proximitat</a></p>", 
+            "id": 9733, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/suport-a-l-associacionisme-comercial\">https://decidim.barcelona/proposals/suport-a-l-associacionisme-comercial</a></p>", 
+            "id": 9738, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/prioritzar-el-comerc-de-proximitat-i-els-eixos-comercials-dels-barris-de-la-ciutat\">https://decidim.barcelona/proposals/prioritzar-el-comerc-de-proximitat-i-els-eixos-comercials-dels-barris-de-la-ciutat</a></p>", 
+            "id": 9739, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/ordenacio-i-regulacio-del-sector-del-comerc\">https://decidim.barcelona/proposals/ordenacio-i-regulacio-del-sector-del-comerc</a></p>", 
+            "id": 9741, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/pla-de-mobilitat-en-relacio-al-comerc-adequat-a-cada-territori\">https://decidim.barcelona/proposals/pla-de-mobilitat-en-relacio-al-comerc-adequat-a-cada-territori</a></p>", 
+            "id": 9744, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/defensa-del-comerc-de-proximitat\">https://decidim.barcelona/proposals/defensa-del-comerc-de-proximitat</a></p>", 
+            "id": 9762, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/comerc-de-qualitat-als-barris\">https://decidim.barcelona/proposals/comerc-de-qualitat-als-barris</a></p>", 
+            "id": 9785, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/comerc-de-proximitat\">https://decidim.barcelona/proposals/comerc-de-proximitat</a></p>", 
+            "id": 9787, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/limitar-el-nombre-de-grans-superficies\">https://decidim.barcelona/proposals/limitar-el-nombre-de-grans-superficies</a></p>", 
+            "id": 9788, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/que-abren-los-supermercados-y-otras-tiendas-los-domingos\">https://decidim.barcelona/proposals/que-abren-los-supermercados-y-otras-tiendas-los-domingos</a></p>", 
+            "id": 9816, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/promoure-la-cessio-de-locals-pel-llancament-de-nous-productes\">https://decidim.barcelona/proposals/promoure-la-cessio-de-locals-pel-llancament-de-nous-productes</a></p>", 
+            "id": 9845, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/fomentar-la-rehabilitacio-i-fabricacio-d-equipament-esportiu-artesanal\">https://decidim.barcelona/proposals/fomentar-la-rehabilitacio-i-fabricacio-d-equipament-esportiu-artesanal</a></p>", 
+            "id": 9853, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/les-noves-tecnologies-com-a-impuls-de-l-economia-dels-districtes\">https://decidim.barcelona/proposals/les-noves-tecnologies-com-a-impuls-de-l-economia-dels-districtes</a></p>", 
+            "id": 9864, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/unificacio-d-horaris\">https://decidim.barcelona/proposals/unificacio-d-horaris</a></p>", 
+            "id": 9868, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/agent-desenvolupament-economic-atendre-les-necessitats-del-territori\">https://decidim.barcelona/proposals/agent-desenvolupament-economic-atendre-les-necessitats-del-territori</a></p>", 
+            "id": 9873, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/reordenar-els-horaris-comercials-per-tal-de-facilitar-la-conciliacio-de-la-vida-laboral-i-familiar\">https://decidim.barcelona/proposals/reordenar-els-horaris-comercials-per-tal-de-facilitar-la-conciliacio-de-la-vida-laboral-i-familiar</a></p>", 
+            "id": 10198, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/promoure-la-innovacio-oberta-per-a-millorar-el-territori-i-la-societat\">https://decidim.barcelona/proposals/promoure-la-innovacio-oberta-per-a-millorar-el-territori-i-la-societat</a></p>", 
+            "id": 10204, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/estructura-que-coordini-de-cada-districte-i-generi-treball-en-xarxa\">https://decidim.barcelona/proposals/estructura-que-coordini-de-cada-districte-i-generi-treball-en-xarxa</a></p>", 
+            "id": 10213, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/identificar-nous-actius-i-crear-nova-activitat-economica-i-ocupacio\">https://decidim.barcelona/proposals/identificar-nous-actius-i-crear-nova-activitat-economica-i-ocupacio</a></p>", 
+            "id": 10223, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/remodelacio-de-la-gran-via\">https://decidim.barcelona/proposals/remodelacio-de-la-gran-via</a></p>", 
+            "id": 10229, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/dotar-el-territori-de-plans-d-usos\">https://decidim.barcelona/proposals/dotar-el-territori-de-plans-d-usos</a></p>", 
+            "id": 10285, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/que-los-negocios-puedan-abrir-los-domingos\">https://decidim.barcelona/proposals/que-los-negocios-puedan-abrir-los-domingos</a></p>", 
+            "id": 10299, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/fomentar-la-reduccio-de-trajectes-per-anar-a-treballar\">https://decidim.barcelona/proposals/fomentar-la-reduccio-de-trajectes-per-anar-a-treballar</a></p>", 
+            "id": 10351, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/incorporar-i-valorar-la-visio-i-el-treball-que-es-fa-des-dels-barris-en-l-impuls-de-l-ecss\">https://decidim.barcelona/proposals/incorporar-i-valorar-la-visio-i-el-treball-que-es-fa-des-dels-barris-en-l-impuls-de-l-ecss</a></p>", 
+            "id": 11055, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/eixos-comercials-dels-barris\">https://decidim.barcelona/proposals/eixos-comercials-dels-barris</a></p>", 
+            "id": 11223, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/control-de-les-grans-superficies-comercials\">https://decidim.barcelona/proposals/control-de-les-grans-superficies-comercials</a></p>", 
+            "id": 11240, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/comerc-solidari\">https://decidim.barcelona/proposals/comerc-solidari</a></p>", 
+            "id": 11243, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/unio-temporal-de-petites-empreses\">https://decidim.barcelona/proposals/unio-temporal-de-petites-empreses</a></p>", 
+            "id": 12017, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/fomentar-la-figura-dels-tecnics-d-ocupacio-en-tots-els-barris-principalment-en-els-barris-amb-mes-atur\">https://decidim.barcelona/proposals/fomentar-la-figura-dels-tecnics-d-ocupacio-en-tots-els-barris-principalment-en-els-barris-amb-mes-atur</a></p>", 
+            "id": 12040, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/facilitar-la-coordinacio-entre-els-agents-dispositius-i-programes-d-ocupacio-de-barcelona-activa-i-el-teixit-social-i-microeconomic-dels-barris\">https://decidim.barcelona/proposals/facilitar-la-coordinacio-entre-els-agents-dispositius-i-programes-d-ocupacio-de-barcelona-activa-i-el-teixit-social-i-microeconomic-dels-barris</a></p>", 
+            "id": 12056, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/servei-orientacio-i-recerca-feina-segons-necessitats-de-cada-territori\">https://decidim.barcelona/proposals/servei-orientacio-i-recerca-feina-segons-necessitats-de-cada-territori</a></p>", 
+            "id": 12109, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/noves-accions-desenvolupament-segons-diferents-necessitats\">https://decidim.barcelona/proposals/noves-accions-desenvolupament-segons-diferents-necessitats</a></p>", 
+            "id": 12126, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/impulsar-un-pla-de-comerc-que-vetlli-pel-comerc-local\">https://decidim.barcelona/proposals/impulsar-un-pla-de-comerc-que-vetlli-pel-comerc-local</a></p>", 
+            "id": 12200, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/aprofitament-de-les-sinergies-entre-els-diferents-municipis-de-l-area-metropolitana-de-la-provincia-i-de-la-resta-de-catalunya\">https://decidim.barcelona/proposals/aprofitament-de-les-sinergies-entre-els-diferents-municipis-de-l-area-metropolitana-de-la-provincia-i-de-la-resta-de-catalunya</a></p>", 
+            "id": 12854, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/la-promocio-de-la-innovacio-com-un-dels-elements-mes-importants-i-transversals-per-al-desenvolupament-economic-de-la-ciutat\">https://decidim.barcelona/proposals/la-promocio-de-la-innovacio-com-un-dels-elements-mes-importants-i-transversals-per-al-desenvolupament-economic-de-la-ciutat</a></p>", 
+            "id": 12857, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p>Proposta debatuda en la cita presencial: Debat sobre les pol\u00edtiques d'ocupaci\u00f3 del Raval: \"Enfortir la relaci\u00f3 entre les xarxes d'inserci\u00f3 i el sector comercial local\"</p>", 
+            "id": 4505, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/impuls-de-l-economia-local\">https://decidim.barcelona/proposals/impuls-de-l-economia-local</a></p>", 
+            "id": 8675, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/equilibri-i-economia-comparada-pel-barri-del-coll\">https://decidim.barcelona/proposals/equilibri-i-economia-comparada-pel-barri-del-coll</a></p>", 
+            "id": 8676, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/politiques-actives-d-ocupacio\">https://decidim.barcelona/proposals/politiques-actives-d-ocupacio</a></p>", 
+            "id": 8680, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/comerc-de-qualitat-i-en-catala\">https://decidim.barcelona/proposals/comerc-de-qualitat-i-en-catala</a></p>", 
+            "id": 9067, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/impulsar-el-comerc-dels-barris\">https://decidim.barcelona/proposals/impulsar-el-comerc-dels-barris</a></p>", 
+            "id": 9563, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/foment-del-comerc-de-proximitat\">https://decidim.barcelona/proposals/foment-del-comerc-de-proximitat</a></p>", 
+            "id": 9564, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/fer-una-campanya-per-promocionar-l-associacionisme-en-el-comerc\">https://decidim.barcelona/proposals/fer-una-campanya-per-promocionar-l-associacionisme-en-el-comerc</a></p>", 
+            "id": 9569, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/promoure-la-cooperacio-entre-territori-eixos-comercials-i-mercats\">https://decidim.barcelona/proposals/promoure-la-cooperacio-entre-territori-eixos-comercials-i-mercats</a></p>", 
+            "id": 9580, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/promocio-de-l-associacionisme-comercial\">https://decidim.barcelona/proposals/promocio-de-l-associacionisme-comercial</a></p>", 
+            "id": 9583, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/bonificacions-a-l-ibi-i-a-la-taxa-d-escombraries-per-als-comercos-ubicats-a-zones-que-es-vulguin-dinamitzar\">https://decidim.barcelona/proposals/bonificacions-a-l-ibi-i-a-la-taxa-d-escombraries-per-als-comercos-ubicats-a-zones-que-es-vulguin-dinamitzar</a></p>", 
+            "id": 9605, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/fomentar-el-paper-de-les-associacions-comercials-com-a-promotores-socio-economiques\">https://decidim.barcelona/proposals/fomentar-el-paper-de-les-associacions-comercials-com-a-promotores-socio-economiques</a></p>", 
+            "id": 9614, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/aprofitar-el-pla-de-mobilitat-per-alinear-se-amb-politiques-comercials\">https://decidim.barcelona/proposals/aprofitar-el-pla-de-mobilitat-per-alinear-se-amb-politiques-comercials</a></p>", 
+            "id": 9615, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/regulacio-del-comerc\">https://decidim.barcelona/proposals/regulacio-del-comerc</a></p>", 
+            "id": 9624, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/pla-estrategic-de-comerc-per-cada-barri\">https://decidim.barcelona/proposals/pla-estrategic-de-comerc-per-cada-barri</a></p>", 
+            "id": 9637, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/revaloritzar-el-comerc-dels-barris-amb-mes-precarietat\">https://decidim.barcelona/proposals/revaloritzar-el-comerc-dels-barris-amb-mes-precarietat</a></p>", 
+            "id": 9640, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/web-de-les-associacions-comercials-de-la-ciutat\">https://decidim.barcelona/proposals/web-de-les-associacions-comercials-de-la-ciutat</a></p>", 
+            "id": 9642, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/utilitzar-locals-buits-per-altres-usos-no-comercials-donant-millor-imatge\">https://decidim.barcelona/proposals/utilitzar-locals-buits-per-altres-usos-no-comercials-donant-millor-imatge</a></p>", 
+            "id": 9647, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/suport-de-l-ajuntament-a-convenis-amb-els-bancs-per-atorgar-credits-tous-per-l-arranjament-i-millora-de-les-botigues-de-proximitat\">https://decidim.barcelona/proposals/suport-de-l-ajuntament-a-convenis-amb-els-bancs-per-atorgar-credits-tous-per-l-arranjament-i-millora-de-les-botigues-de-proximitat</a></p>", 
+            "id": 9649, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/apeus-comercials\">https://decidim.barcelona/proposals/apeus-comercials</a></p>", 
+            "id": 9659, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "info": {
+        "summary": "Coconstruir entre actors del territori (associacions de productors, teixit comercial, empresarial, associatiu, ciutadans, etc\u00e8tera) plans integrals de desenvolupament socioecon\u00f2mic als districtes. Cal insistir especialment a arribar a sectors socials castigats per la crisi econ\u00f2mica en clau de reequilibri territorial. Aquests plans han de dibuixar una estrat\u00e8gia compartida de refor\u00e7ament i promoci\u00f3 d'emprenedoria, empresa, comer\u00e7, ocupaci\u00f3... aix\u00ed com l'apoderament dels actors i la ciutadania del territori en la construcci\u00f3 de propostes i iniciatives de satisfacci\u00f3 de necessitats.", 
+        "title": "Plans de desenvolupament econ\u00f2mic de districte en clau de proximitat", 
+        "total_comments": 62, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 62, 
+        "total_positive_comments": 0, 
+        "total_votes": 9
+    }
+}

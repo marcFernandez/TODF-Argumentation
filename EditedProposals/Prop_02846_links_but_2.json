@@ -1,0 +1,613 @@
+{
+    "comments": [
+        {
+            "alignment": 1, 
+            "ancestry": null, 
+            "body": "<p>Els infants i joves del Casal Sant Josep de Calassan\u00e7 van estar debatent diverses propostes per millorar les condicions de vida dels ciutadans i ciutadanes de Barcelona. Entre aquestes van proposar dotar de senyals ac\u00fastiques tots els sem\u00e0fors per garantir la lliure mobilitat de les persones amb disminuci\u00f3 visual. </p>", 
+            "id": 9049, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 1, 
+            "ancestry": null, 
+            "body": "<p>Proposta debatuda en Sessi\u00f3 de treball PAM. Autonomia personal: \"Substituir el redactat de la proposta del PAM Pla d'accessibilitat universal per: Millorar l'accessibilitat per al conjunt de la ciutadania amb  l'elaboraci\u00f3 d'un Pla d'accessibilitat universal.\"</p>", 
+            "id": 9138, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/garantir-l-accessibilitat-al-transport-public\">https://decidim.barcelona/proposals/garantir-l-accessibilitat-al-transport-public</a></p>", 
+            "id": 9381, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/zones-infantils-adaptades\">https://decidim.barcelona/proposals/zones-infantils-adaptades</a></p>", 
+            "id": 9804, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/adaptacio-deltmb-per-les-persones-am-discapacitat-o-movilitat-reduida\">https://decidim.barcelona/proposals/adaptacio-deltmb-per-les-persones-am-discapacitat-o-movilitat-reduida</a></p>", 
+            "id": 9805, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/parc-accesible\">https://decidim.barcelona/proposals/parc-accesible</a></p>", 
+            "id": 9807, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/accessibilitat-i-tracte-a-persones-amb-discapacitat\">https://decidim.barcelona/proposals/accessibilitat-i-tracte-a-persones-amb-discapacitat</a></p>", 
+            "id": 9814, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/adaptar-les-estacions-de-metro-d-urquinaona-verdaguer-maragall-pl-espanya\">https://decidim.barcelona/proposals/adaptar-les-estacions-de-metro-d-urquinaona-verdaguer-maragall-pl-espanya</a></p>", 
+            "id": 9824, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/normativa-municipal-de-accesibilidad\">https://decidim.barcelona/proposals/normativa-municipal-de-accesibilidad</a></p>", 
+            "id": 9825, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/platges-adaptades\">https://decidim.barcelona/proposals/platges-adaptades</a></p>", 
+            "id": 9827, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/augmentar-l-oferta-de-transport-en-taxi-adaptat-per-a-discapacitats-fisics-per-poder-anar-al-metge\">https://decidim.barcelona/proposals/augmentar-l-oferta-de-transport-en-taxi-adaptat-per-a-discapacitats-fisics-per-poder-anar-al-metge</a></p>", 
+            "id": 9834, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/mapa-d-espais-d-oci-i-esbarjo-accessibles-bars-restaurants-botigues\">https://decidim.barcelona/proposals/mapa-d-espais-d-oci-i-esbarjo-accessibles-bars-restaurants-botigues</a></p>", 
+            "id": 9844, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/revisar-la-normativa-d-accessibilitat\">https://decidim.barcelona/proposals/revisar-la-normativa-d-accessibilitat</a></p>", 
+            "id": 9847, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/les-voreres-i-els-passos-de-vianants-sense-rampa-per-a-cadires-de-rodes\">https://decidim.barcelona/proposals/les-voreres-i-els-passos-de-vianants-sense-rampa-per-a-cadires-de-rodes</a></p>", 
+            "id": 9849, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/fer-accesible-la-parada-de-metro-urquinaona-de-la-l1-i-l4\">https://decidim.barcelona/proposals/fer-accesible-la-parada-de-metro-urquinaona-de-la-l1-i-l4</a></p>", 
+            "id": 9850, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/fer-accessible-el-transport-public-incorporant-tambe-les-necessitats-de-les-persones-que-necessiten-un-suport-extens-acompanyament\">https://decidim.barcelona/proposals/fer-accessible-el-transport-public-incorporant-tambe-les-necessitats-de-les-persones-que-necessiten-un-suport-extens-acompanyament</a></p>", 
+            "id": 9855, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/millores-en-el-servei-d-autobusos-per-tal-de-garantir-el-dret-a-la-mobilitat-de-les-persones-amb-discapacitat\">https://decidim.barcelona/proposals/millores-en-el-servei-d-autobusos-per-tal-de-garantir-el-dret-a-la-mobilitat-de-les-persones-amb-discapacitat</a></p>", 
+            "id": 9856, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/ampliar-l-oferta-de-taxi-adaptat-cetramsa\">https://decidim.barcelona/proposals/ampliar-l-oferta-de-taxi-adaptat-cetramsa</a></p>", 
+            "id": 9857, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/millorar-l-accessibilitat-del-transport-public-autobusos-i-metro-frequencia-manteniment-i-disseny-adequat-per-facilitar-la-mobilitat-autonoma-sense-acompanyament-de-les-persones-amb-diversitat-funcional\">https://decidim.barcelona/proposals/millorar-l-accessibilitat-del-transport-public-autobusos-i-metro-frequencia-manteniment-i-disseny-adequat-per-facilitar-la-mobilitat-autonoma-sense-acompanyament-de-les-persones-amb-diversitat-funcional</a></p>", 
+            "id": 9858, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/sensibilitzar-els-conductors-d-autobus-perque-tinguin-mes-cura-en-el-tracte-a-les-persones-amb-diversitat-funcional\">https://decidim.barcelona/proposals/sensibilitzar-els-conductors-d-autobus-perque-tinguin-mes-cura-en-el-tracte-a-les-persones-amb-diversitat-funcional</a></p>", 
+            "id": 9859, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/informacio-fiable-sobre-l-accessibilitat-de-les-estacions-de-metro\">https://decidim.barcelona/proposals/informacio-fiable-sobre-l-accessibilitat-de-les-estacions-de-metro</a></p>", 
+            "id": 9889, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/permetre-que-els-scooters-de-persones-amb-mobilitat-reduida-puguin-pujar-als-autobusos-i-al-transport-public-en-general\">https://decidim.barcelona/proposals/permetre-que-els-scooters-de-persones-amb-mobilitat-reduida-puguin-pujar-als-autobusos-i-al-transport-public-en-general</a></p>", 
+            "id": 9890, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/fer-conjuntament-amb-l-impd-i-les-federacions-d-entitats-un-mapa-de-punts-negres-d-accessibilitat-a-la-ciutat\">https://decidim.barcelona/proposals/fer-conjuntament-amb-l-impd-i-les-federacions-d-entitats-un-mapa-de-punts-negres-d-accessibilitat-a-la-ciutat</a></p>", 
+            "id": 9892, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/bancs-publics-adaptats-a-les-persones-que-pateixen-miossitis-amb-cossos-d-inclusio\">https://decidim.barcelona/proposals/bancs-publics-adaptats-a-les-persones-que-pateixen-miossitis-amb-cossos-d-inclusio</a></p>", 
+            "id": 9904, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/facilitar-l-acces-a-comercos-i-espais-d-oci-bars-restaurants-etc-a-les-persones-amb-discapacitat\">https://decidim.barcelona/proposals/facilitar-l-acces-a-comercos-i-espais-d-oci-bars-restaurants-etc-a-les-persones-amb-discapacitat</a></p>", 
+            "id": 9906, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/protocol-especific-de-bons-usos-al-metro\">https://decidim.barcelona/proposals/protocol-especific-de-bons-usos-al-metro</a></p>", 
+            "id": 9907, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/accessibilitat-l4-del-metro\">https://decidim.barcelona/proposals/accessibilitat-l4-del-metro</a></p>", 
+            "id": 9908, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/coordinacio-entre-administracions-en-materia-d-accessibilitat\">https://decidim.barcelona/proposals/coordinacio-entre-administracions-en-materia-d-accessibilitat</a></p>", 
+            "id": 9910, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/inspectors-d-accessibilitat-amb-diversitat-funcional\">https://decidim.barcelona/proposals/inspectors-d-accessibilitat-amb-diversitat-funcional</a></p>", 
+            "id": 9921, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/que-les-persones-amb-diversitat-funcional-tinguin-incidencia-politica-en-l-elaboracio-del-pla-general-d-urbanisme\">https://decidim.barcelona/proposals/que-les-persones-amb-diversitat-funcional-tinguin-incidencia-politica-en-l-elaboracio-del-pla-general-d-urbanisme</a></p>", 
+            "id": 9924, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/locals-i-productes-completament-adaptats-i-accessibles\">https://decidim.barcelona/proposals/locals-i-productes-completament-adaptats-i-accessibles</a></p>", 
+            "id": 9932, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/presencia-d-inspectors-que-garanteixin-mesures-d-accessibilitat-als-comercos\">https://decidim.barcelona/proposals/presencia-d-inspectors-que-garanteixin-mesures-d-accessibilitat-als-comercos</a></p>", 
+            "id": 9933, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/garantir-accessibilitat-comunicativa-i-fisica-a-tota-la-xarxa-de-transport-public\">https://decidim.barcelona/proposals/garantir-accessibilitat-comunicativa-i-fisica-a-tota-la-xarxa-de-transport-public</a></p>", 
+            "id": 9947, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/garantir-l-accessibilitat-dels-taxis\">https://decidim.barcelona/proposals/garantir-l-accessibilitat-dels-taxis</a></p>", 
+            "id": 9949, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/bascules-i-lliteres-accessibles-fisicament\">https://decidim.barcelona/proposals/bascules-i-lliteres-accessibles-fisicament</a></p>", 
+            "id": 9953, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/garantir-accessibilitat-i-mesures-de-seguretat-vial-a-tots-els-carrers-de-la-ciutat\">https://decidim.barcelona/proposals/garantir-accessibilitat-i-mesures-de-seguretat-vial-a-tots-els-carrers-de-la-ciutat</a></p>", 
+            "id": 9956, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/eliminar-els-wc-quimics-que-no-compleixen-mesures-d-accessibilitat\">https://decidim.barcelona/proposals/eliminar-els-wc-quimics-que-no-compleixen-mesures-d-accessibilitat</a></p>", 
+            "id": 9960, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/garantir-l-accessibilitat-equitativa-i-digne-a-tots-els-espais-publics-i-privats-per-exemple-el-museu-del-disseny\">https://decidim.barcelona/proposals/garantir-l-accessibilitat-equitativa-i-digne-a-tots-els-espais-publics-i-privats-per-exemple-el-museu-del-disseny</a></p>", 
+            "id": 9961, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/garantir-l-accessibilitat-als-hotels\">https://decidim.barcelona/proposals/garantir-l-accessibilitat-als-hotels</a></p>", 
+            "id": 9966, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/accessibilitat-a-la-oferta-de-lleure-i-cultura-de-la-ciutat\">https://decidim.barcelona/proposals/accessibilitat-a-la-oferta-de-lleure-i-cultura-de-la-ciutat</a></p>", 
+            "id": 9968, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/espais-comunitaris-que-garanteixin-l-accessibilitat-fisica-i-comunicativa\">https://decidim.barcelona/proposals/espais-comunitaris-que-garanteixin-l-accessibilitat-fisica-i-comunicativa</a></p>", 
+            "id": 9975, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/bordillos-7-centimetros-mas-bajos\">https://decidim.barcelona/proposals/bordillos-7-centimetros-mas-bajos</a></p>", 
+            "id": 9988, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/programa-universal-d-adaptacio-funcional-de-la-llar\">https://decidim.barcelona/proposals/programa-universal-d-adaptacio-funcional-de-la-llar</a></p>", 
+            "id": 9990, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/establir-al-pla-de-formacio-municipal-una-oferta-formativa-obligatoria-sobre-accessibilitat\">https://decidim.barcelona/proposals/establir-al-pla-de-formacio-municipal-una-oferta-formativa-obligatoria-sobre-accessibilitat</a></p>", 
+            "id": 9997, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/revisar-la-normativa-d-accessibilitat\">https://decidim.barcelona/proposals/revisar-la-normativa-d-accessibilitat</a></p>", 
+            "id": 10009, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/comprovar-l-accessibilitat-i-l-adaptacio-correcta-dels-elements-basics-del-transport-public-rampes-entre-andana-i-vago-ascensors-etc-evitar-que-les-estacions-noves-o-remodelades-tinguin-defectes-de-disseny-que-perjudiquin-la-mobilitat\">https://decidim.barcelona/proposals/comprovar-l-accessibilitat-i-l-adaptacio-correcta-dels-elements-basics-del-transport-public-rampes-entre-andana-i-vago-ascensors-etc-evitar-que-les-estacions-noves-o-remodelades-tinguin-defectes-de-disseny-que-perjudiquin-la-mobilitat</a></p>", 
+            "id": 10010, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/accessibilitat-del-metro\">https://decidim.barcelona/proposals/accessibilitat-del-metro</a></p>", 
+            "id": 10759, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/instal-lar-ascensors-al-metro\">https://decidim.barcelona/proposals/instal-lar-ascensors-al-metro</a></p>", 
+            "id": 10762, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/reforcar-la-senyalitzacio-dels-seients-reservats-dels-busos-i-metro\">https://decidim.barcelona/proposals/reforcar-la-senyalitzacio-dels-seients-reservats-dels-busos-i-metro</a></p>", 
+            "id": 14931, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/iniciatives-per-facilitar-l-us-del-transport-public-per-a-tothom\">https://decidim.barcelona/proposals/iniciatives-per-facilitar-l-us-del-transport-public-per-a-tothom</a></p>", 
+            "id": 14951, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/retirar-pals-i-altres-elements-de-voreres-que-impedeixen-el-pas-de-vianants-i-persones-amb-discapacitat\">https://decidim.barcelona/proposals/retirar-pals-i-altres-elements-de-voreres-que-impedeixen-el-pas-de-vianants-i-persones-amb-discapacitat</a></p>", 
+            "id": 14962, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/instal-lar-ascensors-al-metro\">https://decidim.barcelona/proposals/instal-lar-ascensors-al-metro</a></p>", 
+            "id": 14990, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/adaptacio-complerta-dels-transports-publics\">https://decidim.barcelona/proposals/adaptacio-complerta-dels-transports-publics</a></p>", 
+            "id": 15166, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/transport-porta-a-porta\">https://decidim.barcelona/proposals/transport-porta-a-porta</a></p>", 
+            "id": 15167, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/accesibilidad-a-las-paradas-de-bus-crear-decalogo-de-como-han-de-ser-perfectamente-accesibles\">https://decidim.barcelona/proposals/accesibilidad-a-las-paradas-de-bus-crear-decalogo-de-como-han-de-ser-perfectamente-accesibles</a></p>", 
+            "id": 15814, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/accessibilitat-sortida-nord-estacio-zona-universitaria-linea-3-del-metro\">https://decidim.barcelona/proposals/accessibilitat-sortida-nord-estacio-zona-universitaria-linea-3-del-metro</a></p>", 
+            "id": 15855, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/no-mas-abusos-con-las-plazas-de-aparcamiento-de-discapacitados\">https://decidim.barcelona/proposals/no-mas-abusos-con-las-plazas-de-aparcamiento-de-discapacitados</a></p>", 
+            "id": 16022, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/renovacio-dels-semafors-peatonals-de-la-ciutat\">https://decidim.barcelona/proposals/renovacio-dels-semafors-peatonals-de-la-ciutat</a></p>", 
+            "id": 16192, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/mejora-de-la-cartelistica-de-metro-ferrocarriles-y-cercanias\">https://decidim.barcelona/proposals/mejora-de-la-cartelistica-de-metro-ferrocarriles-y-cercanias</a></p>", 
+            "id": 16503, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/accessibilitat-amb-diversos-trams-d-escales-mecaniques-a-les-escoles-3-pins-i-de-bosc-de-montjuic\">https://decidim.barcelona/proposals/accessibilitat-amb-diversos-trams-d-escales-mecaniques-a-les-escoles-3-pins-i-de-bosc-de-montjuic</a></p>", 
+            "id": 16618, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "info": {
+        "summary": "Millorar l\u2019accessibilitat a l\u2019espai p\u00fablic, edificis, transport, productes, serveis i processos de comunicaci\u00f3, a fi de garantir l\u2019autonomia, la igualtat d\u2019oportunitats i la no-discriminaci\u00f3 de les persones amb diversitat funcional, auditiva, visual i amb dificultats en la comprensi\u00f3 i la parla. Desplegar el pla posant \u00e8mfasi en totes les activitats de lleure, esdeveniments ciutadans i activitats culturals.", 
+        "title": "Pla d'accessibilitat universal", 
+        "total_comments": 60, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 58, 
+        "total_positive_comments": 2, 
+        "total_votes": 18
+    }
+}

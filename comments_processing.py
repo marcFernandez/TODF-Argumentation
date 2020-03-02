@@ -118,7 +118,7 @@ class CommentProcessing:
         for k in d.keys():
             if k is not 0:  # and d[k]['data']['label'] != 0:
                 self.G.add_node(k, label=const.UNDEC)
-                if d[k]['ancestry'] is not None:
+                if d[k]['ancestry'] is not None:  # and False:
                     # So here we assume that an answer comment is always attacking its target comment due to the fact
                     # that we don't have further information about its alignment
                     self.G.add_edge(k, d[k]['ancestry'], color=const.ATTACK_COLOUR, label=const.ATTACK)
@@ -153,7 +153,12 @@ class CommentProcessing:
                         # print "Argument", k, \
                         #     "is considered defensive against the target although it's alignment is not defined."
                     if d[k]['data']['label'] != 0:
-                        self.G.add_edge(k, 0,
+
+                        # print d[k]['ancestry']
+
+                        ancestry = d[k]['ancestry'] if d[k]['ancestry'] is not None else 0
+
+                        self.G.add_edge(k, ancestry,
                                    color=const.DEFENCE_COLOUR if d[k]['data']['label'] != -1 else const.ATTACK_COLOUR,
                                    label=const.DEFENCE if d[k]['data']['label'] != -1 else const.ATTACK)
         if di:

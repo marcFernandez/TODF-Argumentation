@@ -122,7 +122,7 @@ if __name__ == "__main__":
         for _ in range(nam_dict[arg]['votes']['likes']):
             nam_input += ',1'
         for _ in range(nam_dict[arg]['votes']['dislikes']):
-            nam_input += ',-1'
+            nam_input += ',0'  # ',-1'
         nam_input += '\n'
 
     if len(sys.argv) != 1:

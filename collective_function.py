@@ -208,15 +208,21 @@ def draw_labelling(G, labelling, target, title,position):
     plt.show()
 
 
-def drawProfile(G, profile, target, titles, position):
+def drawProfile(G, profile, target, titles, position, justResult=False):
 
     iterTitles = iter(titles)
+
+    if justResult:
+        print "profiles: "+str(len(profile))
+        profile = [profile[len(profile)-1]]
 
     for labelling in profile:
 
         inNodes = [node for node in G if labelling[node] == const.IN]
         outNodes = [node for node in G if labelling[node] == const.OUT]
         undecNodes = [node for node in G if labelling[node] == const.UNDEC]
+
+        print inNodes
 
         plt.figure()
 

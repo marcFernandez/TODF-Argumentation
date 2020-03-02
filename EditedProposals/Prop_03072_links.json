@@ -1,0 +1,463 @@
+{
+    "comments": [
+        {
+            "alignment": 1, 
+            "ancestry": null, 
+            "body": "<p>Per desgr\u00e0cia, Sant Andreu est\u00e0 a la prehist\u00f2ria en equipacions esportives.</p>", 
+            "id": 5483, 
+            "modified_alignment": 1, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/repensar-la-pastilla-d-equipaments-del-camp-del-ferro\">https://decidim.barcelona/proposals/repensar-la-pastilla-d-equipaments-del-camp-del-ferro</a></p>", 
+            "id": 9520, 
+            "modified_alignment": 0,  
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/realitzacio-del-projecte-de-pavello-de-casernes-per-cobrir-la-demanda-del-nord-de-sant-andreu\">https://decidim.barcelona/proposals/realitzacio-del-projecte-de-pavello-de-casernes-per-cobrir-la-demanda-del-nord-de-sant-andreu</a></p>", 
+            "id": 9523, 
+            "modified_alignment": 0,  
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/requalificacio-del-camp-del-carrer-santander\">https://decidim.barcelona/proposals/requalificacio-del-camp-del-carrer-santander</a></p>", 
+            "id": 9526, 
+            "modified_alignment": 0,  
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/fer-el-camp-de-futbol-de-baro-de-viver\">https://decidim.barcelona/proposals/fer-el-camp-de-futbol-de-baro-de-viver</a></p>", 
+            "id": 9574, 
+            "modified_alignment": 0,  
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/complex-esportiu-municipal-pel-barri-de-la-sagrera\">https://decidim.barcelona/proposals/complex-esportiu-municipal-pel-barri-de-la-sagrera</a></p>", 
+            "id": 17582, 
+            "modified_alignment": 0,  
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/posar-una-cistella-de-basquet-a-la-pl-ferran-reyes\">https://decidim.barcelona/proposals/posar-una-cistella-de-basquet-a-la-pl-ferran-reyes</a></p>", 
+            "id": 17605, 
+            "modified_alignment": 0,  
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/crear-un-poliesportiu-al-bon-pastor-amb-pistes-de-padel\">https://decidim.barcelona/proposals/crear-un-poliesportiu-al-bon-pastor-amb-pistes-de-padel</a></p>", 
+            "id": 17864, 
+            "modified_alignment": 0,  
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/donar-als-veins-de-baro-de-viver-l-oportunitat-d-aprofitar-l-espai-del-club-de-lluita-baro-de-viver\">https://decidim.barcelona/proposals/donar-als-veins-de-baro-de-viver-l-oportunitat-d-aprofitar-l-espai-del-club-de-lluita-baro-de-viver</a></p>", 
+            "id": 17865, 
+            "modified_alignment": 0,  
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/reforc-del-manteniment-i-neteja-dels-espais-de-lliure-disposicio-del-parc-de-la-pegaso\">https://decidim.barcelona/proposals/reforc-del-manteniment-i-neteja-dels-espais-de-lliure-disposicio-del-parc-de-la-pegaso</a></p>", 
+            "id": 17866, 
+            "modified_alignment": 0,  
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/reubicar-la-unio-esportiva-congres-a-un-camp-de-futbol-del-districte\">https://decidim.barcelona/proposals/reubicar-la-unio-esportiva-congres-a-un-camp-de-futbol-del-districte</a></p>", 
+            "id": 17867, 
+            "modified_alignment": 0,  
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/adequar-el-camp-de-criquet-ubicat-a-la-zona-de-casernes\">https://decidim.barcelona/proposals/adequar-el-camp-de-criquet-ubicat-a-la-zona-de-casernes</a></p>", 
+            "id": 17868, 
+            "modified_alignment": 0,  
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/projectar-una-piscina-a-la-zona-de-casernes\">https://decidim.barcelona/proposals/projectar-una-piscina-a-la-zona-de-casernes</a></p>", 
+            "id": 17869, 
+            "modified_alignment": 0,  
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/reformar-i-arranjar-les-pistes-de-tennis-i-padel-de-la-llosa-del-bon-pastor\">https://decidim.barcelona/proposals/reformar-i-arranjar-les-pistes-de-tennis-i-padel-de-la-llosa-del-bon-pastor</a></p>", 
+            "id": 17870, 
+            "modified_alignment": 0,  
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/dotar-de-les-instal-lacions-necessaries-les-activitats-de-la-unio-esportiva-sant-andreu\">https://decidim.barcelona/proposals/dotar-de-les-instal-lacions-necessaries-les-activitats-de-la-unio-esportiva-sant-andreu</a></p>", 
+            "id": 17871, 
+            "modified_alignment": 0,  
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/habilitar-un-pavello-on-encabir-les-activitats-del-club-pati-congres\">https://decidim.barcelona/proposals/habilitar-un-pavello-on-encabir-les-activitats-del-club-pati-congres</a></p>", 
+            "id": 17873, 
+            "modified_alignment": 0,  
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/que-es-destini-part-de-l-espai-del-carrer-santander-a-crear-un-camp-futbol-11-i-camp-futbol-7-i-donar-li-alhora-altres-usos-alternatius-per-a-que-sigui-un-camp-poliesportiu-multifuncional\">https://decidim.barcelona/proposals/que-es-destini-part-de-l-espai-del-carrer-santander-a-crear-un-camp-futbol-11-i-camp-futbol-7-i-donar-li-alhora-altres-usos-alternatius-per-a-que-sigui-un-camp-poliesportiu-multifuncional</a></p>", 
+            "id": 17874, 
+            "modified_alignment": 0,  
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/que-es-destini-l-espai-de-l-antic-camp-de-futbol-del-carrer-santander-a-construir-la-segona-pista-coberta-d-atletisme-de-catalunya-fet-que-permetria-multifuncionalitat-i-entrenament-tot-l-any\">https://decidim.barcelona/proposals/que-es-destini-l-espai-de-l-antic-camp-de-futbol-del-carrer-santander-a-construir-la-segona-pista-coberta-d-atletisme-de-catalunya-fet-que-permetria-multifuncionalitat-i-entrenament-tot-l-any</a></p>", 
+            "id": 17875, 
+            "modified_alignment": 0,  
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/que-es-destini-l-espai-de-l-antic-camp-de-futbol-del-carrer-santander-a-esports-amb-enfocament-femeni-i-encarat-a-dones-joves\">https://decidim.barcelona/proposals/que-es-destini-l-espai-de-l-antic-camp-de-futbol-del-carrer-santander-a-esports-amb-enfocament-femeni-i-encarat-a-dones-joves</a></p>", 
+            "id": 17876, 
+            "modified_alignment": 0,  
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/que-es-destini-part-de-l-espai-de-l-antic-camp-de-futbol-del-carrer-santander-a-crear-un-espai-per-anar-amb-els-gossos-i-mascotes\">https://decidim.barcelona/proposals/que-es-destini-part-de-l-espai-de-l-antic-camp-de-futbol-del-carrer-santander-a-crear-un-espai-per-anar-amb-els-gossos-i-mascotes</a></p>", 
+            "id": 17877, 
+            "modified_alignment": 0,  
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/reparacio-de-la-pista-del-parc-de-la-pegaso\">https://decidim.barcelona/proposals/reparacio-de-la-pista-del-parc-de-la-pegaso</a></p>", 
+            "id": 17898, 
+            "modified_alignment": 0,  
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/recuperacio-de-l-espai-esportiu-de-l-aiss\">https://decidim.barcelona/proposals/recuperacio-de-l-espai-esportiu-de-l-aiss</a></p>", 
+            "id": 17899, 
+            "modified_alignment": 0,  
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/poliesportiu-i-camp-de-futbol-a-la-sagrera\">https://decidim.barcelona/proposals/poliesportiu-i-camp-de-futbol-a-la-sagrera</a></p>", 
+            "id": 17900, 
+            "modified_alignment": 0,  
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/reforma-integral-del-camp-municipal-narcis-sala\">https://decidim.barcelona/proposals/reforma-integral-del-camp-municipal-narcis-sala</a></p>", 
+            "id": 17901, 
+            "modified_alignment": 0,  
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/construccio-urgent-d-un-pav-3-ampliat-a-les-pistes-del-tennis-canodrom\">https://decidim.barcelona/proposals/construccio-urgent-d-un-pav-3-ampliat-a-les-pistes-del-tennis-canodrom</a></p>", 
+            "id": 17902, 
+            "modified_alignment": 0,  
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/que-es-destini-part-de-les-instal-lacions-esportives-de-l-antic-camp-de-futbol-del-carrer-santander-a-una-nova-escola-d-idiomes\">https://decidim.barcelona/proposals/que-es-destini-part-de-les-instal-lacions-esportives-de-l-antic-camp-de-futbol-del-carrer-santander-a-una-nova-escola-d-idiomes</a></p>", 
+            "id": 17878, 
+            "modified_alignment": 0,  
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/que-les-instal-lacions-esportives-que-s-ubicaran-a-l-antic-camp-de-futbol-del-carrer-santander-sigui-quin-sigui-el-seu-us-final-tinguin-prioritat-absoluta-per-a-les-escoles\">https://decidim.barcelona/proposals/que-les-instal-lacions-esportives-que-s-ubicaran-a-l-antic-camp-de-futbol-del-carrer-santander-sigui-quin-sigui-el-seu-us-final-tinguin-prioritat-absoluta-per-a-les-escoles</a></p>", 
+            "id": 17879, 
+            "modified_alignment": 0,  
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/que-es-destini-l-espai-de-l-antic-camp-de-futbol-del-carrer-santander-a-una-sala-multiusos-divisible-per-a-diferents-activitats-culturals\">https://decidim.barcelona/proposals/que-es-destini-l-espai-de-l-antic-camp-de-futbol-del-carrer-santander-a-una-sala-multiusos-divisible-per-a-diferents-activitats-culturals</a></p>", 
+            "id": 17880, 
+            "modified_alignment": 0,  
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/aprofitar-les-dimensions-l-espai-de-l-antic-camp-de-futbol-del-carrer-santander-per-a-esports-que-requereixin-grans-mides\">https://decidim.barcelona/proposals/aprofitar-les-dimensions-l-espai-de-l-antic-camp-de-futbol-del-carrer-santander-per-a-esports-que-requereixin-grans-mides</a></p>", 
+            "id": 17881, 
+            "modified_alignment": 0,  
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/que-es-destini-part-de-les-instal-lacions-esportives-que-s-ubicaran-a-l-antic-camp-de-futbol-del-carrer-santander-a-la-instal-lacio-de-plaques-solars\">https://decidim.barcelona/proposals/que-es-destini-part-de-les-instal-lacions-esportives-que-s-ubicaran-a-l-antic-camp-de-futbol-del-carrer-santander-a-la-instal-lacio-de-plaques-solars</a></p>", 
+            "id": 17882, 
+            "modified_alignment": 0,  
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/durant-el-periode-de-temps-en-que-es-decideix-quin-sera-l-us-de-les-instal-lacions-que-s-ubicaran-a-l-antic-camp-de-futbol-del-carrer-santander-arreglar-l-espai-i-donar-li-un-us-provisional\">https://decidim.barcelona/proposals/durant-el-periode-de-temps-en-que-es-decideix-quin-sera-l-us-de-les-instal-lacions-que-s-ubicaran-a-l-antic-camp-de-futbol-del-carrer-santander-arreglar-l-espai-i-donar-li-un-us-provisional</a></p>", 
+            "id": 17883, 
+            "modified_alignment": 0,  
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/que-es-destini-part-de-l-espai-de-l-antic-camp-de-futbol-del-carrer-santander-a-un-club-poliesportiu\">https://decidim.barcelona/proposals/que-es-destini-part-de-l-espai-de-l-antic-camp-de-futbol-del-carrer-santander-a-un-club-poliesportiu</a></p>", 
+            "id": 17884, 
+            "modified_alignment": 0,  
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/que-es-destini-part-de-l-espai-de-l-antic-camp-de-futbol-del-carrer-santander-per-a-fer-una-pista-d-skate\">https://decidim.barcelona/proposals/que-es-destini-part-de-l-espai-de-l-antic-camp-de-futbol-del-carrer-santander-per-a-fer-una-pista-d-skate</a></p>", 
+            "id": 17885, 
+            "modified_alignment": 0,  
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/que-es-destini-l-espai-de-l-antic-camp-de-futbol-del-carrer-santander-a-pistes-de-petanca-cobertes-i-descobertes\">https://decidim.barcelona/proposals/que-es-destini-l-espai-de-l-antic-camp-de-futbol-del-carrer-santander-a-pistes-de-petanca-cobertes-i-descobertes</a></p>", 
+            "id": 17886, 
+            "modified_alignment": 0,  
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/que-es-destini-part-l-espai-de-l-antic-camp-de-futbol-del-carrer-santander-a-una-pista-de-basquet-multiusos\">https://decidim.barcelona/proposals/que-es-destini-part-l-espai-de-l-antic-camp-de-futbol-del-carrer-santander-a-una-pista-de-basquet-multiusos</a></p>", 
+            "id": 17887, 
+            "modified_alignment": 0,  
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/que-es-destini-l-espai-de-l-antic-camp-de-futbol-del-carrer-santander-a-pistes-de-padel\">https://decidim.barcelona/proposals/que-es-destini-l-espai-de-l-antic-camp-de-futbol-del-carrer-santander-a-pistes-de-padel</a></p>", 
+            "id": 17888, 
+            "modified_alignment": 0,  
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/que-es-destini-part-de-les-instal-lacions-esportives-que-s-ubicaran-a-l-antic-camp-de-futbol-del-carrer-santander-a-la-seu-de-federacions-esportives\">https://decidim.barcelona/proposals/que-es-destini-part-de-les-instal-lacions-esportives-que-s-ubicaran-a-l-antic-camp-de-futbol-del-carrer-santander-a-la-seu-de-federacions-esportives</a></p>", 
+            "id": 17889, 
+            "modified_alignment": 0,  
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/que-l-espai-o-les-instal-lacions-resultants-que-s-ubicaran-a-l-antic-camp-de-futbol-del-carrer-santander-siguin-co-gestionades-entre-l-ajuntament-i-l-agregacio-esportiva-bon-pastor\">https://decidim.barcelona/proposals/que-l-espai-o-les-instal-lacions-resultants-que-s-ubicaran-a-l-antic-camp-de-futbol-del-carrer-santander-siguin-co-gestionades-entre-l-ajuntament-i-l-agregacio-esportiva-bon-pastor</a></p>", 
+            "id": 17890, 
+            "modified_alignment": 0,  
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/crear-sinergia-entre-el-barri-de-bon-pastor-i-la-ciutat-aprofitant-l-espai-de-l-antic-camp-de-futbol-del-carrer-santander-per-a-crear-una-instal-lacio-poliesportiva-d-algun-esport-minoritari-i-que-manqui-a-nivell-de-ciutat\">https://decidim.barcelona/proposals/crear-sinergia-entre-el-barri-de-bon-pastor-i-la-ciutat-aprofitant-l-espai-de-l-antic-camp-de-futbol-del-carrer-santander-per-a-crear-una-instal-lacio-poliesportiva-d-algun-esport-minoritari-i-que-manqui-a-nivell-de-ciutat</a></p>", 
+            "id": 17891, 
+            "modified_alignment": 0,  
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/millora-del-manteniment-de-les-instal-lacions-i-entorn-de-la-piscina-municipal-de-trinitat-vella\">https://decidim.barcelona/proposals/millora-del-manteniment-de-les-instal-lacions-i-entorn-de-la-piscina-municipal-de-trinitat-vella</a></p>", 
+            "id": 17892, 
+            "modified_alignment": 0,  
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/pavello-ignasi-iglesias\">https://decidim.barcelona/proposals/pavello-ignasi-iglesias</a></p>", 
+            "id": 17893, 
+            "modified_alignment": 0,  
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/pistes-d-skate-a-sant-andreu\">https://decidim.barcelona/proposals/pistes-d-skate-a-sant-andreu</a></p>", 
+            "id": 17894, 
+            "modified_alignment": 0,  
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/nos-gimnas-municipal-a-la-sagrera\">https://decidim.barcelona/proposals/nos-gimnas-municipal-a-la-sagrera</a></p>", 
+            "id": 17895, 
+            "modified_alignment": 0,  
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/que-l-espai-o-les-instal-lacions-resultants-que-s-ubicaran-a-l-antic-camp-de-futbol-del-carrer-santander-siguin-co-gestionades-entre-l-ajuntament-i-l-agregacio-esportiva-bon-pastor\">https://decidim.barcelona/proposals/que-l-espai-o-les-instal-lacions-resultants-que-s-ubicaran-a-l-antic-camp-de-futbol-del-carrer-santander-siguin-co-gestionades-entre-l-ajuntament-i-l-agregacio-esportiva-bon-pastor</a></p>", 
+            "id": 17896, 
+            "modified_alignment": 0,  
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/construccio-d-un-segon-camp-de-futbol-a-sant-andreu-de-palomar\">https://decidim.barcelona/proposals/construccio-d-un-segon-camp-de-futbol-a-sant-andreu-de-palomar</a></p>", 
+            "id": 17897, 
+            "modified_alignment": 0,  
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "info": {
+        "summary": "Construir un camp de futbol a Bar\u00f3 de Viver, i el poliesportiu de Camp del Ferro i les piscines d\u2019estiu situades en el seu entorn. Executar l\u2019equipament esportiu pendent a la zona del Can\u00f2drom. Enllestir el cobriment lleuger de la pista esportiva de Bar\u00f3 de Viver. Adequar els terrenys de l\u2019antic camp del carrer de Santander per construir un equipament per a noves pr\u00e0ctiques esportives. Executar el poliesportiu a les Casernes.", 
+        "title": "Impulsar i millorar la xarxa d'equipaments esportius al districte", 
+        "total_comments": 45, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 44, 
+        "total_positive_comments": 1, 
+        "total_votes": 18
+    }
+}

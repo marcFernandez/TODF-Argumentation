@@ -112,8 +112,13 @@ def save_json(filename, json_data):
     print('''File {filename} saved!''')
 
 
-PATH = 'D:\\INFO\\Projects\\TODF-Argumentation\\ProcessedProposals'
-CURRENT_PROP = 'Prop_01256.json'
+#PATH = 'D:\\INFO\\Projects\\TODF-Argumentation\\ProcessedProposals'
+#CURRENT_PROP = 'Prop_01256.json'
+PATH = './EditedProposals'
+CURRENT_PROP = 'Prop_01219.json'
+
+# directory = "/Users/demo/Documents/metadecidim-master/comments/"
+# prop_directory = "/Users/demo/Documents/metadecidim-master/proposals/"
 
 
 if __name__ == "__main__":

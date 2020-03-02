@@ -1,0 +1,483 @@
+{
+    "comments": [
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/targeta-t12-de-plastic-renovacio-gratuita-per-perdua-o-robatori\">https://decidim.barcelona/proposals/targeta-t12-de-plastic-renovacio-gratuita-per-perdua-o-robatori</a></p>", 
+            "id": 15290, 
+            "modified_alignment": 0, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/zona-1-de-barcelona-fins-a-s-cugat-i-rubi-o-fins-a-cerdanyola-i-ripollet\">https://decidim.barcelona/proposals/zona-1-de-barcelona-fins-a-s-cugat-i-rubi-o-fins-a-cerdanyola-i-ripollet</a></p>", 
+            "id": 15308, 
+            "modified_alignment": 0, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/extendra-la-validessa-de-la-tarjeta-rosa-als-trens-entrants-a-barcelon\">https://decidim.barcelona/proposals/extendra-la-validessa-de-la-tarjeta-rosa-als-trens-entrants-a-barcelon</a></p>", 
+            "id": 15318, 
+            "modified_alignment": 0, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/una-t12-mes-justa-i-eficient\">https://decidim.barcelona/proposals/una-t12-mes-justa-i-eficient</a></p>", 
+            "id": 15704, 
+            "modified_alignment": 0, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/que-la-t12-sigui-per-als-nens-escolaritzats-a-barcelona-encara-que-visquin-fora-de-la-zona-1\">https://decidim.barcelona/proposals/que-la-t12-sigui-per-als-nens-escolaritzats-a-barcelona-encara-que-visquin-fora-de-la-zona-1</a></p>", 
+            "id": 15706, 
+            "modified_alignment": 0, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/tarjeta-de-transporte-t4-para-jubilados-renovable\">https://decidim.barcelona/proposals/tarjeta-de-transporte-t4-para-jubilados-renovable</a></p>", 
+            "id": 15758, 
+            "modified_alignment": 0, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/augmentar-punts-de-venda-de-titols-de-transport-fm-fn\">https://decidim.barcelona/proposals/augmentar-punts-de-venda-de-titols-de-transport-fm-fn</a></p>", 
+            "id": 15761, 
+            "modified_alignment": 0, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/tarjetas-con-descuento-de-tmb-para-todos-los-jubilados\">https://decidim.barcelona/proposals/tarjetas-con-descuento-de-tmb-para-todos-los-jubilados</a></p>", 
+            "id": 15763, 
+            "modified_alignment": 0, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/reduccio-de-les-tarifes-de-tmb\">https://decidim.barcelona/proposals/reduccio-de-les-tarifes-de-tmb</a></p>", 
+            "id": 15765, 
+            "modified_alignment": 0, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/el-titol-de-transport-hauria-de-permetre-utilitzar-durant-el-temps-establert-actualment-qualsevol-mitja-de-transport-encara-que-es-repeteixi\">https://decidim.barcelona/proposals/el-titol-de-transport-hauria-de-permetre-utilitzar-durant-el-temps-establert-actualment-qualsevol-mitja-de-transport-encara-que-es-repeteixi</a></p>", 
+            "id": 15774, 
+            "modified_alignment": 0, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/de-t-12-a-t-16-transport-gratuit-per-escolars-fins-els-16-anys-o-fi-de-la-eso\">https://decidim.barcelona/proposals/de-t-12-a-t-16-transport-gratuit-per-escolars-fins-els-16-anys-o-fi-de-la-eso</a></p>", 
+            "id": 15782, 
+            "modified_alignment": 0, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/reduccions-de-preus-de-transports-per-aturats-barcelonins\">https://decidim.barcelona/proposals/reduccions-de-preus-de-transports-per-aturats-barcelonins</a></p>", 
+            "id": 15783, 
+            "modified_alignment": 0, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/t-12-el-duplicat-molt-mes-economic-gratuit-i-que-no-fos-necessaria-fins-als-10-o-12-anys\">https://decidim.barcelona/proposals/t-12-el-duplicat-molt-mes-economic-gratuit-i-que-no-fos-necessaria-fins-als-10-o-12-anys</a></p>", 
+            "id": 15784, 
+            "modified_alignment": 0, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/t-12-de-mas-de-una-zona\">https://decidim.barcelona/proposals/t-12-de-mas-de-una-zona</a></p>", 
+            "id": 15785, 
+            "modified_alignment": 0, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/tarjetes-de-plastic-recarregables-pel-transport-public\">https://decidim.barcelona/proposals/tarjetes-de-plastic-recarregables-pel-transport-public</a></p>", 
+            "id": 15816, 
+            "modified_alignment": 0, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/barcelonins-puguin-anar-amb-metro-a-aeroport-l9-sense-pagament-suplement\">https://decidim.barcelona/proposals/barcelonins-puguin-anar-amb-metro-a-aeroport-l9-sense-pagament-suplement</a></p>", 
+            "id": 15838, 
+            "modified_alignment": 0, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/rebaixa-preu-t-jove\">https://decidim.barcelona/proposals/rebaixa-preu-t-jove</a></p>", 
+            "id": 15862, 
+            "modified_alignment": 0, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/reforma-del-sistema-de-los-titulos-de-transporte\">https://decidim.barcelona/proposals/reforma-del-sistema-de-los-titulos-de-transporte</a></p>", 
+            "id": 15865, 
+            "modified_alignment": 0, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/millorar-transport-public-a7561da8-11e1-4cd8-bfe3-db237698c21b\">https://decidim.barcelona/proposals/millorar-transport-public-a7561da8-11e1-4cd8-bfe3-db237698c21b</a></p>", 
+            "id": 15909, 
+            "modified_alignment": 0, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/promocio-del-transport-public-mitjancant-campanyes-de-sensibilitzacio-i-reduccio-dels-preus\">https://decidim.barcelona/proposals/promocio-del-transport-public-mitjancant-campanyes-de-sensibilitzacio-i-reduccio-dels-preus</a></p>", 
+            "id": 15911, 
+            "modified_alignment": 0, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/ampliacio-de-la-t-12-fins-el-16-anys\">https://decidim.barcelona/proposals/ampliacio-de-la-t-12-fins-el-16-anys</a></p>", 
+            "id": 15977, 
+            "modified_alignment": 0, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/tarifes-especials-reduides-de-transport-public-per-veins\">https://decidim.barcelona/proposals/tarifes-especials-reduides-de-transport-public-per-veins</a></p>", 
+            "id": 16186, 
+            "modified_alignment": 0, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p>Abaratint-ne el cost, i augmentant-ne la xarxa, per tal de potenciar l'\u00fas del transport p\u00fablic transport p\u00fablic no contaminant.</p>", 
+            "id": 16380, 
+            "modified_alignment": 0, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/optimitzar-la-xarxa-del-transport-public\">https://decidim.barcelona/proposals/optimitzar-la-xarxa-del-transport-public</a></p>", 
+            "id": 16383, 
+            "modified_alignment": 0, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/transporte-publico-y-contaminacion\">https://decidim.barcelona/proposals/transporte-publico-y-contaminacion</a></p>", 
+            "id": 16448, 
+            "modified_alignment": 0, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/reduccion-contaminacion-2\">https://decidim.barcelona/proposals/reduccion-contaminacion-2</a></p>", 
+            "id": 16507, 
+            "modified_alignment": 0, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/bus-turistic-a-preu-accessible-per-als-barcelonins\">https://decidim.barcelona/proposals/bus-turistic-a-preu-accessible-per-als-barcelonins</a></p>", 
+            "id": 16552, 
+            "modified_alignment": 0, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 1, 
+            "ancestry": null, 
+            "body": "<p>Vincular els descomptes escolars al tipus de centre escolar. A l'alumnat de centres p\u00fablics menors de 18 anys estentre els descomptes fins els 18 anys i els alumnes de centres concertats deixar els descomptes igual que fins ara. </p>", 
+            "id": 2494, 
+            "modified_alignment": 1, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 1, 
+            "ancestry": null, 
+            "body": "<p>Al debat que va tenir lloc a l\u2019Escola Bet\u00e0nia \u2013 Patmos, els estudiants de 3r d\u2019ESO B van proposar l\u2019extensi\u00f3 de la T-12 fins els 16 anys per tal de facilitar la mobilitat adolescent. </p>", 
+            "id": 7679, 
+            "modified_alignment": 1, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/preus-de-tmb\">https://decidim.barcelona/proposals/preus-de-tmb</a></p>", 
+            "id": 9447, 
+            "modified_alignment": 0, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/baixar-el-preu-de-la-t-10-i-fomentar-el-us-del-transport-public\">https://decidim.barcelona/proposals/baixar-el-preu-de-la-t-10-i-fomentar-el-us-del-transport-public</a></p>", 
+            "id": 9459, 
+            "modified_alignment": 0, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/bitllet-de-mobilitat-eco-integrat\">https://decidim.barcelona/proposals/bitllet-de-mobilitat-eco-integrat</a></p>", 
+            "id": 10376, 
+            "modified_alignment": 0, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/que-les-t12-estiguin-fetes-de-cartro-com-les-altres-targetes\">https://decidim.barcelona/proposals/que-les-t12-estiguin-fetes-de-cartro-com-les-altres-targetes</a></p>", 
+            "id": 11681, 
+            "modified_alignment": 0, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/facilitar-l-us-del-transport-public-a-les-persones-grans\">https://decidim.barcelona/proposals/facilitar-l-us-del-transport-public-a-les-persones-grans</a></p>", 
+            "id": 14937, 
+            "modified_alignment": 0, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/donar-a-coneixer-els-ajuts-que-hi-ha-en-transport\">https://decidim.barcelona/proposals/donar-a-coneixer-els-ajuts-que-hi-ha-en-transport</a></p>", 
+            "id": 14939, 
+            "modified_alignment": 0, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/targetes-transport-public-allargar-la-t-12-fins-la-t-18\">https://decidim.barcelona/proposals/targetes-transport-public-allargar-la-t-12-fins-la-t-18</a></p>", 
+            "id": 14952, 
+            "modified_alignment": 0, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/ampliacio-hores-de-transbord-gratuites-del-transport-public\">https://decidim.barcelona/proposals/ampliacio-hores-de-transbord-gratuites-del-transport-public</a></p>", 
+            "id": 14957, 
+            "modified_alignment": 0, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/crear-beques-de-mobilitat-per-estudiants-a-les-escoles\">https://decidim.barcelona/proposals/crear-beques-de-mobilitat-per-estudiants-a-les-escoles</a></p>", 
+            "id": 14999, 
+            "modified_alignment": 0, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/possibilitat-de-comprar-t10-als-autobusos\">https://decidim.barcelona/proposals/possibilitat-de-comprar-t10-als-autobusos</a></p>", 
+            "id": 15190, 
+            "modified_alignment": 0, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/baixar-el-preu-de-la-t-10-i-fomentar-el-us-del-transport-public\">https://decidim.barcelona/proposals/baixar-el-preu-de-la-t-10-i-fomentar-el-us-del-transport-public</a></p>", 
+            "id": 15192, 
+            "modified_alignment": 0, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/t-aturat-transport-public-gratuit-per-a-aturats-que-no-rebin-prestacio-o-rebi\">https://decidim.barcelona/proposals/t-aturat-transport-public-gratuit-per-a-aturats-que-no-rebin-prestacio-o-rebi</a></p>", 
+            "id": 15201, 
+            "modified_alignment": 0, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/baixada-de-preus-del-billet-de-metro\">https://decidim.barcelona/proposals/baixada-de-preus-del-billet-de-metro</a></p>", 
+            "id": 15205, 
+            "modified_alignment": 0, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/t-trimestre-de-zona-1-gratuita-per-gent-sense-ingressos\">https://decidim.barcelona/proposals/t-trimestre-de-zona-1-gratuita-per-gent-sense-ingressos</a></p>", 
+            "id": 15251, 
+            "modified_alignment": 0, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/titol-de-transport-public-recarregable\">https://decidim.barcelona/proposals/titol-de-transport-public-recarregable</a></p>", 
+            "id": 15253, 
+            "modified_alignment": 0, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/bitllet-senzill-mes-economic-i-possibilitat-de-transbord\">https://decidim.barcelona/proposals/bitllet-senzill-mes-economic-i-possibilitat-de-transbord</a></p>", 
+            "id": 15263, 
+            "modified_alignment": 0, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/tarjetes-de-plastic-recarregables-pel-transport-public\">https://decidim.barcelona/proposals/tarjetes-de-plastic-recarregables-pel-transport-public</a></p>", 
+            "id": 15264, 
+            "modified_alignment": 0, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/tb-10-la-targeta-de-transport-per-les-persones-que-vieuen-a-barcelona\">https://decidim.barcelona/proposals/tb-10-la-targeta-de-transport-per-les-persones-que-vieuen-a-barcelona</a></p>", 
+            "id": 15267, 
+            "modified_alignment": 0, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "info": {
+        "summary": "Revisar les tarifes del transport p\u00fablic per aconseguir la gratu\u00eftat de la T-12 fins als 16 anys (T-16), i estendre els actuals descomptes de la T-trimestre a les persones registrades a l\u2019atur i a les persones amb renda inferior al salari m\u00ednim interprofessional, impulsant la proposta conjuntament amb les altres institucions que hi estan implicades. Impulsar un nou abonament (T-ambiental) que simplifiqui les sis zones actuals a nom\u00e9s dues.", 
+        "title": "Impuls del transport p\u00fablic amb preus socials", 
+        "total_comments": 47, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 45, 
+        "total_positive_comments": 2, 
+        "total_votes": 65
+    }
+}

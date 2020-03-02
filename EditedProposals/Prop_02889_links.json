@@ -1,0 +1,543 @@
+{
+    "comments": [
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/creacio-del-museu-de-la-gub-i-dels-bombers\">https://decidim.barcelona/proposals/creacio-del-museu-de-la-gub-i-dels-bombers</a></p>", 
+            "id": 10698, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/promoure-noves-formes-d-emprenedoria\">https://decidim.barcelona/proposals/promoure-noves-formes-d-emprenedoria</a></p>", 
+            "id": 10700, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/seleccio-de-la-direccio-de-cada-d-institucio-per-criteris-professionals-sotmesos-tambe-al-consell-social-i-democratic\">https://decidim.barcelona/proposals/seleccio-de-la-direccio-de-cada-d-institucio-per-criteris-professionals-sotmesos-tambe-al-consell-social-i-democratic</a></p>", 
+            "id": 10707, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/ens-conve-una-politica-real-a-favor-de-la-cultura-popular-i-l-associacionisme-cultural-a-la-ciutat-de-barcelona-8\">https://decidim.barcelona/proposals/ens-conve-una-politica-real-a-favor-de-la-cultura-popular-i-l-associacionisme-cultural-a-la-ciutat-de-barcelona-8</a></p>", 
+            "id": 10715, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/establir-una-relacio-amb-la-administracio-que-es-basi-en-la-escolta-i-la-empatia-amb-una-interlocucio-mes-transversal\">https://decidim.barcelona/proposals/establir-una-relacio-amb-la-administracio-que-es-basi-en-la-escolta-i-la-empatia-amb-una-interlocucio-mes-transversal</a></p>", 
+            "id": 10733, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/ens-conve-una-politica-real-a-favor-de-la-cultura-popular-i-l-associacionisme-cultural-a-la-ciutat-de-barcelona-4\">https://decidim.barcelona/proposals/ens-conve-una-politica-real-a-favor-de-la-cultura-popular-i-l-associacionisme-cultural-a-la-ciutat-de-barcelona-4</a></p>", 
+            "id": 10740, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/taules-de-treball-i-disseny-de-programes-conjunts\">https://decidim.barcelona/proposals/taules-de-treball-i-disseny-de-programes-conjunts</a></p>", 
+            "id": 10797, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/ens-conve-una-politica-real-a-favor-de-la-cultura-popular-i-l-associacionisme-cultural-a-la-ciutat-de-barcelona-7\">https://decidim.barcelona/proposals/ens-conve-una-politica-real-a-favor-de-la-cultura-popular-i-l-associacionisme-cultural-a-la-ciutat-de-barcelona-7</a></p>", 
+            "id": 10800, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/difondre-la-feia-educativa-en-cultura-i-dels-equipaments-culturals\">https://decidim.barcelona/proposals/difondre-la-feia-educativa-en-cultura-i-dels-equipaments-culturals</a></p>", 
+            "id": 10822, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/ens-conve-una-politica-real-a-favor-de-la-cultura-popular-i-l-associacionisme-cultural-a-la-ciutat-de-barcelona-3\">https://decidim.barcelona/proposals/ens-conve-una-politica-real-a-favor-de-la-cultura-popular-i-l-associacionisme-cultural-a-la-ciutat-de-barcelona-3</a></p>", 
+            "id": 10836, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/ens-conve-una-politica-real-a-favor-de-la-cultura-popular-i-l-associacionisme-cultural-a-la-ciutat-de-barcelona-1\">https://decidim.barcelona/proposals/ens-conve-una-politica-real-a-favor-de-la-cultura-popular-i-l-associacionisme-cultural-a-la-ciutat-de-barcelona-1</a></p>", 
+            "id": 10837, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/ens-conve-una-politica-real-a-favor-de-la-cultura-popular-i-l-associacionisme-cultural-a-la-ciutat-de-barcelona-9\">https://decidim.barcelona/proposals/ens-conve-una-politica-real-a-favor-de-la-cultura-popular-i-l-associacionisme-cultural-a-la-ciutat-de-barcelona-9</a></p>", 
+            "id": 10844, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/ens-conve-una-politica-real-a-favor-de-la-cultura-popular-i-l-associacionisme-cultural-a-la-ciutat-de-barcelona-11\">https://decidim.barcelona/proposals/ens-conve-una-politica-real-a-favor-de-la-cultura-popular-i-l-associacionisme-cultural-a-la-ciutat-de-barcelona-11</a></p>", 
+            "id": 10846, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/elaboracio-d-un-codi-de-bones-practiques-intern\">https://decidim.barcelona/proposals/elaboracio-d-un-codi-de-bones-practiques-intern</a></p>", 
+            "id": 10921, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/revertir-les-jerarquies-en-la-presa-de-decisions\">https://decidim.barcelona/proposals/revertir-les-jerarquies-en-la-presa-de-decisions</a></p>", 
+            "id": 10933, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/museu-del-transport-public\">https://decidim.barcelona/proposals/museu-del-transport-public</a></p>", 
+            "id": 10937, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/promoure-mesures-per-garantir-les-condicions-laborals-dels-treballadors-de-les-empreses-que-contracta-l-administracio\">https://decidim.barcelona/proposals/promoure-mesures-per-garantir-les-condicions-laborals-dels-treballadors-de-les-empreses-que-contracta-l-administracio</a></p>", 
+            "id": 10951, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/pla-estrategic-de-com-a-minim-4-anys-de-durada-a-cada-institucio\">https://decidim.barcelona/proposals/pla-estrategic-de-com-a-minim-4-anys-de-durada-a-cada-institucio</a></p>", 
+            "id": 10957, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/contracte-programa-dels-tecnics-per-projectes-anuals\">https://decidim.barcelona/proposals/contracte-programa-dels-tecnics-per-projectes-anuals</a></p>", 
+            "id": 10989, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/contracte-programa-anual-entre-l-administracio-i-cada-institucio\">https://decidim.barcelona/proposals/contracte-programa-anual-entre-l-administracio-i-cada-institucio</a></p>", 
+            "id": 10991, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/flexibilitzacio-d-horaris-d-equipaments-en-funcio-dels-usos\">https://decidim.barcelona/proposals/flexibilitzacio-d-horaris-d-equipaments-en-funcio-dels-usos</a></p>", 
+            "id": 10992, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/creacio-de-la-casa-gitana\">https://decidim.barcelona/proposals/creacio-de-la-casa-gitana</a></p>", 
+            "id": 11021, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/crear-un-festival-de-cultura-gitana-per-visualitzar-positivament-la-seva-cultura\">https://decidim.barcelona/proposals/crear-un-festival-de-cultura-gitana-per-visualitzar-positivament-la-seva-cultura</a></p>", 
+            "id": 11022, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/ens-conve-una-politica-real-a-favor-de-la-cultura-popular-i-l-associacionisme-cultural-a-la-ciutat-de-barcelona-6\">https://decidim.barcelona/proposals/ens-conve-una-politica-real-a-favor-de-la-cultura-popular-i-l-associacionisme-cultural-a-la-ciutat-de-barcelona-6</a></p>", 
+            "id": 11067, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/ens-conve-una-politica-real-a-favor-de-la-cultura-popular-i-l-associacionisme-cultural-a-la-ciutat-de-barcelona-5\">https://decidim.barcelona/proposals/ens-conve-una-politica-real-a-favor-de-la-cultura-popular-i-l-associacionisme-cultural-a-la-ciutat-de-barcelona-5</a></p>", 
+            "id": 11071, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/ens-conve-una-politica-real-a-favor-de-la-cultura-popular-i-l-associacionisme-cultural-a-la-ciutat-de-barcelona-2\">https://decidim.barcelona/proposals/ens-conve-una-politica-real-a-favor-de-la-cultura-popular-i-l-associacionisme-cultural-a-la-ciutat-de-barcelona-2</a></p>", 
+            "id": 11088, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/impulsar-guies-de-recursos-que-incorporin-la-visio-de-la-cultura-gitana\">https://decidim.barcelona/proposals/impulsar-guies-de-recursos-que-incorporin-la-visio-de-la-cultura-gitana</a></p>", 
+            "id": 11093, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/consells-ciutadans-als-equipaments-culturals-i-museus\">https://decidim.barcelona/proposals/consells-ciutadans-als-equipaments-culturals-i-museus</a></p>", 
+            "id": 11099, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/redactar-els-protocols-festius-de-tots-els-districtes\">https://decidim.barcelona/proposals/redactar-els-protocols-festius-de-tots-els-districtes</a></p>", 
+            "id": 14199, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/declaracio-d-interes-cultural-de-totes-les-festes-amb-trajectoria-consolidada-en-els-barris-de-la-ciutat\">https://decidim.barcelona/proposals/declaracio-d-interes-cultural-de-totes-les-festes-amb-trajectoria-consolidada-en-els-barris-de-la-ciutat</a></p>", 
+            "id": 14202, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/declaracio-d-interes-cultural-de-totes-les-festes-amb-trajectoria-consolidada-en-els-barris-de-la-ciutat-0894bfd0-c3a7-40b0-9f14-194136d82bb9\">https://decidim.barcelona/proposals/declaracio-d-interes-cultural-de-totes-les-festes-amb-trajectoria-consolidada-en-els-barris-de-la-ciutat-0894bfd0-c3a7-40b0-9f14-194136d82bb9</a></p>", 
+            "id": 14214, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/elaborar-un-mapa-festiu-dels-barris-de-la-ciutat-preveient-els-usos-de-l-espai-public-que-se-n-derivin-1ba13679-0f19-4978-bbab-f8c1fa2d3313\">https://decidim.barcelona/proposals/elaborar-un-mapa-festiu-dels-barris-de-la-ciutat-preveient-els-usos-de-l-espai-public-que-se-n-derivin-1ba13679-0f19-4978-bbab-f8c1fa2d3313</a></p>", 
+            "id": 14219, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p>On representa que es pot trobar aquest Pla de Cultures? </p>", 
+            "id": 2477, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/crear-festivales-culturales-musica-teatro-etc-publicos-a-precio-razonable\">https://decidim.barcelona/proposals/crear-festivales-culturales-musica-teatro-etc-publicos-a-precio-razonable</a></p>", 
+            "id": 10556, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/fomentar-la-intervencion-de-espectaculos-artisticos-en-la-via-publica\">https://decidim.barcelona/proposals/fomentar-la-intervencion-de-espectaculos-artisticos-en-la-via-publica</a></p>", 
+            "id": 10568, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/creacion-de-un-festival-de-arts-al-carrer-oficial-de-barcelona\">https://decidim.barcelona/proposals/creacion-de-un-festival-de-arts-al-carrer-oficial-de-barcelona</a></p>", 
+            "id": 10573, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/museu-del-transport-public-a-barcelona\">https://decidim.barcelona/proposals/museu-del-transport-public-a-barcelona</a></p>", 
+            "id": 10586, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/repensar-els-limits-de-l-externalitzacio-de-serveis-publics\">https://decidim.barcelona/proposals/repensar-els-limits-de-l-externalitzacio-de-serveis-publics</a></p>", 
+            "id": 10589, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/generar-un-programa-d-innovacio-estable-entre-centres-d-ensenyament-i-centres-culturals-de-proximitat\">https://decidim.barcelona/proposals/generar-un-programa-d-innovacio-estable-entre-centres-d-ensenyament-i-centres-culturals-de-proximitat</a></p>", 
+            "id": 10591, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/incorporar-el-ciutada-en-la-creacio-de-les-col-leccions\">https://decidim.barcelona/proposals/incorporar-el-ciutada-en-la-creacio-de-les-col-leccions</a></p>", 
+            "id": 10597, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/creacio-d-un-entorn-virtual-de-recursos-compartits\">https://decidim.barcelona/proposals/creacio-d-un-entorn-virtual-de-recursos-compartits</a></p>", 
+            "id": 10608, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/permeabilitzar-les-institucions\">https://decidim.barcelona/proposals/permeabilitzar-les-institucions</a></p>", 
+            "id": 10619, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/ens-conve-una-politica-real-a-favor-de-la-cultura-popular-i-l-associacionisme-cultural-a-la-ciutat-de-barcelona-10\">https://decidim.barcelona/proposals/ens-conve-una-politica-real-a-favor-de-la-cultura-popular-i-l-associacionisme-cultural-a-la-ciutat-de-barcelona-10</a></p>", 
+            "id": 10640, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/desenvolupar-noves-formules-de-cooperacio-public-privat\">https://decidim.barcelona/proposals/desenvolupar-noves-formules-de-cooperacio-public-privat</a></p>", 
+            "id": 10653, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/actes-multiculturals-als-barris\">https://decidim.barcelona/proposals/actes-multiculturals-als-barris</a></p>", 
+            "id": 10664, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/dotar-de-mes-autonomia-de-gestio-els-centres\">https://decidim.barcelona/proposals/dotar-de-mes-autonomia-de-gestio-els-centres</a></p>", 
+            "id": 10668, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/major-participacio-dels-centres-en-els-organs-generals-de-decisio-de-l-icub\">https://decidim.barcelona/proposals/major-participacio-dels-centres-en-els-organs-generals-de-decisio-de-l-icub</a></p>", 
+            "id": 10672, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/coordinacio-de-la-cultura-de-la-ciutat\">https://decidim.barcelona/proposals/coordinacio-de-la-cultura-de-la-ciutat</a></p>", 
+            "id": 10690, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/afavorir-la-participacio-dels-tecnics-de-les-institucions\">https://decidim.barcelona/proposals/afavorir-la-participacio-dels-tecnics-de-les-institucions</a></p>", 
+            "id": 10691, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/creacio-d-un-departament-o-responsable-de-sostenibilitat\">https://decidim.barcelona/proposals/creacio-d-un-departament-o-responsable-de-sostenibilitat</a></p>", 
+            "id": 10694, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/potenciar-el-gran-actiu-de-coneixement-de-les-institucions-culturals\">https://decidim.barcelona/proposals/potenciar-el-gran-actiu-de-coneixement-de-les-institucions-culturals</a></p>", 
+            "id": 10696, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/creacio-d-un-magatzem-de-recursos-compartits\">https://decidim.barcelona/proposals/creacio-d-un-magatzem-de-recursos-compartits</a></p>", 
+            "id": 10697, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": null, 
+            "ancestry": "2477", 
+            "body": "<p>Alg\u00fan moderador o informador per aqu\u00ed? Gr\u00e0cies</p>", 
+            "id": 6388, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "info": {
+        "summary": "Elaboraci\u00f3 del pla que ha de marcar el desplegament de les pol\u00edtiques culturals a mitj\u00e0 i llarg termini. S'elaborar\u00e0 a trav\u00e9s d'un proc\u00e9s participatiu, tant amb la ciutadania com amb els diferents sectors, i amb un espai central de treball constitu\u00eft per un consell de cultura m\u00e9s transversal i operatiu.", 
+        "title": "Pla de cultures de Barcelona 2016-2026, que garantir\u00e0 la participaci\u00f3 de la ciutadania i dels sectors culturals en la seva elaboraci\u00f3.", 
+        "total_comments": 53, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 52, 
+        "total_positive_comments": 0, 
+        "total_votes": 14
+    }
+}

@@ -1,0 +1,633 @@
+{
+    "comments": [
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/garantir-la-salut-de-la-poblacio-des-la-prevencio-comunitaria\">https://decidim.barcelona/proposals/garantir-la-salut-de-la-poblacio-des-la-prevencio-comunitaria</a></p>", 
+            "id": 10333, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/incentivar-i-donar-suport-a-la-recerca-i-comprensio-de-l-economia-col-laborativa-procomu-cartografiar-la-presencia-de-l-amiant-a-barcelona\">https://decidim.barcelona/proposals/incentivar-i-donar-suport-a-la-recerca-i-comprensio-de-l-economia-col-laborativa-procomu-cartografiar-la-presencia-de-l-amiant-a-barcelona</a></p>", 
+            "id": 12819, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/parlar-d-estrategies-per-garantir-programes-de-prevencio-universal\">https://decidim.barcelona/proposals/parlar-d-estrategies-per-garantir-programes-de-prevencio-universal</a></p>", 
+            "id": 12846, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/donar-a-coneixer-les-plantes-medicinals-a-les-escoles\">https://decidim.barcelona/proposals/donar-a-coneixer-les-plantes-medicinals-a-les-escoles</a></p>", 
+            "id": 12858, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/fibromialgia-instar-als-comercos-a-disposar-de-cadires-per-a-persones-grans-o-amb-malalties-que-cursen-amb-fatiga\">https://decidim.barcelona/proposals/fibromialgia-instar-als-comercos-a-disposar-de-cadires-per-a-persones-grans-o-amb-malalties-que-cursen-amb-fatiga</a></p>", 
+            "id": 12892, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/fibromialgia-poder-disposar-d-algun-espai-centric-centre-civic-local-lliure-de-tallers-de-pintura-de-cuina\">https://decidim.barcelona/proposals/fibromialgia-poder-disposar-d-algun-espai-centric-centre-civic-local-lliure-de-tallers-de-pintura-de-cuina</a></p>", 
+            "id": 12901, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/fibromialgia-disposar-bancs-i-espais-de-descans-repartits-per-tots-els-carrers-i-places\">https://decidim.barcelona/proposals/fibromialgia-disposar-bancs-i-espais-de-descans-repartits-per-tots-els-carrers-i-places</a></p>", 
+            "id": 12925, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/impulsar-l-acompanyament-entre-iguals-en-totes-les-fases-de-la-prevencio\">https://decidim.barcelona/proposals/impulsar-l-acompanyament-entre-iguals-en-totes-les-fases-de-la-prevencio</a></p>", 
+            "id": 12930, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/promocio-de-la-salut-a-les-escoles\">https://decidim.barcelona/proposals/promocio-de-la-salut-a-les-escoles</a></p>", 
+            "id": 12935, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/crear-una-assignatura-de-salut-a-les-escoles-i-instituts\">https://decidim.barcelona/proposals/crear-una-assignatura-de-salut-a-les-escoles-i-instituts</a></p>", 
+            "id": 12938, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/parlar-d-estrategies-per-garantir-programes-de-prevencio-universal-c8009daf-3a6a-403a-b0f3-42e10c316ac6\">https://decidim.barcelona/proposals/parlar-d-estrategies-per-garantir-programes-de-prevencio-universal-c8009daf-3a6a-403a-b0f3-42e10c316ac6</a></p>", 
+            "id": 12945, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/regalar-llibres-d-habits-saludables-per-a-que-els-i-les-barcelonines-siguin-mes-sans\">https://decidim.barcelona/proposals/regalar-llibres-d-habits-saludables-per-a-que-els-i-les-barcelonines-siguin-mes-sans</a></p>", 
+            "id": 12947, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/fibromialgia-disposar-d-un-espai-lliure-de-quimics\">https://decidim.barcelona/proposals/fibromialgia-disposar-d-un-espai-lliure-de-quimics</a></p>", 
+            "id": 12948, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/neteja-de-la-via-publica\">https://decidim.barcelona/proposals/neteja-de-la-via-publica</a></p>", 
+            "id": 12952, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/fibromialgia-treure-ambientadors-i-insecticides-dels-espais-publics\">https://decidim.barcelona/proposals/fibromialgia-treure-ambientadors-i-insecticides-dels-espais-publics</a></p>", 
+            "id": 12954, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/vincular-els-professionals-que-ofereixen-formacio-en-l-ambit-de-la-salut-i-les-entitats-del-barri-per-coordinar-actuacions\">https://decidim.barcelona/proposals/vincular-els-professionals-que-ofereixen-formacio-en-l-ambit-de-la-salut-i-les-entitats-del-barri-per-coordinar-actuacions</a></p>", 
+            "id": 13430, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/potenciar-el-consum-de-productes-ecologics\">https://decidim.barcelona/proposals/potenciar-el-consum-de-productes-ecologics</a></p>", 
+            "id": 13440, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/promoure-campanyes-de-sensibilitzacio-cap-a-les-persones-amb-malaltia-mental-2b8a211a-09f9-4930-aa4a-780da0138046\">https://decidim.barcelona/proposals/promoure-campanyes-de-sensibilitzacio-cap-a-les-persones-amb-malaltia-mental-2b8a211a-09f9-4930-aa4a-780da0138046</a></p>", 
+            "id": 13491, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/fer-una-ciutat-mes-amable-tranquil-la-i-amb-menys-estres\">https://decidim.barcelona/proposals/fer-una-ciutat-mes-amable-tranquil-la-i-amb-menys-estres</a></p>", 
+            "id": 13576, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/millorar-els-aspectes-mediambientals-de-la-ciutat-per-millorar-la-salut-de-la-ciutadania\">https://decidim.barcelona/proposals/millorar-els-aspectes-mediambientals-de-la-ciutat-per-millorar-la-salut-de-la-ciutadania</a></p>", 
+            "id": 16602, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/politiques-transversals-de-salut-sota-un-paradigma-de-salut-en-totes-les-politiques\">https://decidim.barcelona/proposals/politiques-transversals-de-salut-sota-un-paradigma-de-salut-en-totes-les-politiques</a></p>", 
+            "id": 10056, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/millorar-i-integrar-el-model-bio-psico-social\">https://decidim.barcelona/proposals/millorar-i-integrar-el-model-bio-psico-social</a></p>", 
+            "id": 10057, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/impulsar-un-pla-de-comunicacio-sobre-salut-i-sanitat\">https://decidim.barcelona/proposals/impulsar-un-pla-de-comunicacio-sobre-salut-i-sanitat</a></p>", 
+            "id": 10059, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/impulsar-programes-de-vigilancia-epidemiologica\">https://decidim.barcelona/proposals/impulsar-programes-de-vigilancia-epidemiologica</a></p>", 
+            "id": 10064, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/incorporar-la-visio-social-de-la-salut\">https://decidim.barcelona/proposals/incorporar-la-visio-social-de-la-salut</a></p>", 
+            "id": 10066, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/charlas-sobre-nutricion-y-dietetica\">https://decidim.barcelona/proposals/charlas-sobre-nutricion-y-dietetica</a></p>", 
+            "id": 10073, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/les-noves-tecnologies-per-a-prevenir-l-aillament\">https://decidim.barcelona/proposals/les-noves-tecnologies-per-a-prevenir-l-aillament</a></p>", 
+            "id": 10074, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/centres-terapeutics-residencials-de-proximitat-per-adolescents\">https://decidim.barcelona/proposals/centres-terapeutics-residencials-de-proximitat-per-adolescents</a></p>", 
+            "id": 10079, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/incloure-en-el-pla-de-salut-comunitaria-una-mencio-especifica-als-centres-educatius-i-al-paper-rellevant-que-tenen-en-relacio-a-la-prevencio-de-la-salut\">https://decidim.barcelona/proposals/incloure-en-el-pla-de-salut-comunitaria-una-mencio-especifica-als-centres-educatius-i-al-paper-rellevant-que-tenen-en-relacio-a-la-prevencio-de-la-salut</a></p>", 
+            "id": 10085, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/reforcar-el-paper-dels-serveis-socials-en-l-accio-comunitaria-i-la-prevencio-de-la-salut\">https://decidim.barcelona/proposals/reforcar-el-paper-dels-serveis-socials-en-l-accio-comunitaria-i-la-prevencio-de-la-salut</a></p>", 
+            "id": 10086, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/oferir-grups-d-habilitats-de-crianca-per-a-families-de-tots-els-barris-amb-perspectiva-d-equitat-de-genere\">https://decidim.barcelona/proposals/oferir-grups-d-habilitats-de-crianca-per-a-families-de-tots-els-barris-amb-perspectiva-d-equitat-de-genere</a></p>", 
+            "id": 10088, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/garantir-recursos-per-poder-treballar-amb-les-escoles-per-a-que-els-programes-d-educacio-per-la-salut-puguin-tenir-cobertura-municipal\">https://decidim.barcelona/proposals/garantir-recursos-per-poder-treballar-amb-les-escoles-per-a-que-els-programes-d-educacio-per-la-salut-puguin-tenir-cobertura-municipal</a></p>", 
+            "id": 10089, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/augmentar-actuacions-per-fomentar-una-alimentacio-equilibrada-i-segura-i-promoure-l-activitat-fisica\">https://decidim.barcelona/proposals/augmentar-actuacions-per-fomentar-una-alimentacio-equilibrada-i-segura-i-promoure-l-activitat-fisica</a></p>", 
+            "id": 10091, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/acostar-la-professio-dels-metges-als-infants-a-traves-de-xerrades-a-les-escoles\">https://decidim.barcelona/proposals/acostar-la-professio-dels-metges-als-infants-a-traves-de-xerrades-a-les-escoles</a></p>", 
+            "id": 10092, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/oferir-mes-informacio-sobre-salut-i-sanitat-a-la-ciutadania\">https://decidim.barcelona/proposals/oferir-mes-informacio-sobre-salut-i-sanitat-a-la-ciutadania</a></p>", 
+            "id": 10105, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/potenciar-iniciatives-d-educacio-per-a-la-salut-a-l-escola-que-contemplin-la-comunitat-educativa-l-entorn-escolar-i-el-barri\">https://decidim.barcelona/proposals/potenciar-iniciatives-d-educacio-per-a-la-salut-a-l-escola-que-contemplin-la-comunitat-educativa-l-entorn-escolar-i-el-barri</a></p>", 
+            "id": 10106, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/incorporar-altres-perfils-professionals-especialistes-a-l-atencio-a-domicili-que-es-fa-des-de-l-ajuntament\">https://decidim.barcelona/proposals/incorporar-altres-perfils-professionals-especialistes-a-l-atencio-a-domicili-que-es-fa-des-de-l-ajuntament</a></p>", 
+            "id": 10111, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/crear-una-xarxa-informatica-unificada-de-proveidors-per-compartir-informacio-i-coneixements\">https://decidim.barcelona/proposals/crear-una-xarxa-informatica-unificada-de-proveidors-per-compartir-informacio-i-coneixements</a></p>", 
+            "id": 10113, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/impulsar-accions-a-tota-la-ciutat-de-temps-lliure-i-salut\">https://decidim.barcelona/proposals/impulsar-accions-a-tota-la-ciutat-de-temps-lliure-i-salut</a></p>", 
+            "id": 10195, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/fomentar-la-salut-als-espais-d-oci\">https://decidim.barcelona/proposals/fomentar-la-salut-als-espais-d-oci</a></p>", 
+            "id": 10326, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/interfons-d-emergencia\">https://decidim.barcelona/proposals/interfons-d-emergencia</a></p>", 
+            "id": 17485, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/noves-tecnologies\">https://decidim.barcelona/proposals/noves-tecnologies</a></p>", 
+            "id": 17488, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 1, 
+            "ancestry": null, 
+            "body": "<p>Comentaris efectuats en el marc de la cita: Com creem salut als barris per reduir desigualtats</p>\n\n<p>\u2022\tDemanda general d\u2019augment dels recursos econ\u00f2mics i humans, i una demanda de reconeixement als professionals que fan feines de naturalesa comunit\u00e0ria. \n<br />\u2022\tImport\u00e0ncia d\u2019inclusi\u00f3 dels  diferents agents implicats en la promoci\u00f3 de la salut (educaci\u00f3, seguretat social, etc.).\n<br />\u2022\tVoldrien que es tingu\u00e9s en compte un gran treball en xarxa entre ve\u00efns, entitats,\u2026incloent tots els agents implicats en salut.\n<br />\u2022\tProposaven una millora de la xarxa entre els diferents nivells administratius, no nom\u00e9s entre sectors sin\u00f3 tamb\u00e9 de forma vertical, una millor coordinaci\u00f3 i treball en com\u00fa.\n<br />\u2022\tCoordinaci\u00f3 dels diferents programes que despleguen les administracions. \n<br />\u2022\tMajor difusi\u00f3 de la informaci\u00f3 de les activitats al territori, arribant a persones amb m\u00e9s dificultat d\u2019acc\u00e9s a la informaci\u00f3.\n<br />\u2022\tUna visi\u00f3 m\u00e9s transversal i social de la salut.\n<br />\u2022\tInversi\u00f3 en prevenci\u00f3.</p>\n\n<p>(continua)</p>", 
+            "id": 7732, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 1, 
+            "ancestry": null, 
+            "body": "<p>Comentaris efectuats en el marc de la cita: Com creem salut als barris per reduir desigualtats.</p>\n\n<p>\u2022\tCal m\u00e9s treball conjunt amb la ciutadania, fer-ho des de baix i no allunyats d'ells. Una veu diu que s\u00ed que \u00e9s necessari diferenciar els espais i que hi hagi un de professionals, per legitimar aquesta tasca i que sigui reconeguda des de la Instituci\u00f3 i un altre espai amb ciutadania per construir conjuntament.\n<br />\u2022\tTamb\u00e9 s'ha parlat de la import\u00e0ncia de la transversalitat i de la comunicaci\u00f3 entre les diferents \u00e0rees.\n<br />\u2022\tEs senyala que caldria establir i/o compartir uns criteris comuns a l'hora d'avaluar la salut comunit\u00e0ria. Es proposa: educaci\u00f3, treball i habitatge, a pesar de que es comenta que ja hi ha uns indicadors establerts.\n<br />\u2022\tDurant el debat es remarca i es reivindica la incorporaci\u00f3 de la mirada vers la salut mental ja que es considera que cal realitzar un treball m\u00e9s profund per la desestigmatitzaci\u00f3 i de sensibilitzaci\u00f3.</p>\n\n<p>(Continua)</p>", 
+            "id": 7733, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 1, 
+            "ancestry": null, 
+            "body": "<p>Comentaris efectuats a la cita: Com creem salut als barris per reduir desigualtats.</p>\n\n<p>\u2022\tCal m\u00e9s organitzaci\u00f3, m\u00e9s i millor coordinaci\u00f3, integraci\u00f3, creaci\u00f3 d\u2019aliances, treball en xarxa per evitar moltes duplicacions que s\u2019estan donant. \n<br />\u2022\tEl CAPs haurien de donar m\u00e9s informaci\u00f3 sobre els recursos i els actius en salut als territoris on intervenen. \n<br />\u2022\tHem d\u2019aprendre millor a convocar.</p>", 
+            "id": 7734, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/prohibir-explicitament-fumar-a-les-parades-d-autobus\">https://decidim.barcelona/proposals/prohibir-explicitament-fumar-a-les-parades-d-autobus</a></p>", 
+            "id": 8861, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/fomentar-i-treballar-la-salut-psicosocial-per-aconseguir-una-societat-mes-sana\">https://decidim.barcelona/proposals/fomentar-i-treballar-la-salut-psicosocial-per-aconseguir-una-societat-mes-sana</a></p>", 
+            "id": 8863, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/terrazas-para-no-fumadores\">https://decidim.barcelona/proposals/terrazas-para-no-fumadores</a></p>", 
+            "id": 8874, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/barcelona-una-ciutat-apta-pels-celiacs-garantir-acces-a-dieta-sense-gluten\">https://decidim.barcelona/proposals/barcelona-una-ciutat-apta-pels-celiacs-garantir-acces-a-dieta-sense-gluten</a></p>", 
+            "id": 9901, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/piscinas-municipales-libres-de-cloro\">https://decidim.barcelona/proposals/piscinas-municipales-libres-de-cloro</a></p>", 
+            "id": 9909, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/prohibir-ambientadors-a-tots-els-espais-on-sigui-vigent-la-llei-anti-tabac\">https://decidim.barcelona/proposals/prohibir-ambientadors-a-tots-els-espais-on-sigui-vigent-la-llei-anti-tabac</a></p>", 
+            "id": 9917, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/prohibir-fumar-al-carrer-en-moviment\">https://decidim.barcelona/proposals/prohibir-fumar-al-carrer-en-moviment</a></p>", 
+            "id": 9922, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/horaris-dermosaludables-piscines-descobertes\">https://decidim.barcelona/proposals/horaris-dermosaludables-piscines-descobertes</a></p>", 
+            "id": 9923, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/prohibir-fumar-en-las-terrasas\">https://decidim.barcelona/proposals/prohibir-fumar-en-las-terrasas</a></p>", 
+            "id": 9934, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/identificar-nanoproductes-en-construccio-i-asfaltat-i-prohibicio\">https://decidim.barcelona/proposals/identificar-nanoproductes-en-construccio-i-asfaltat-i-prohibicio</a></p>", 
+            "id": 9964, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/inspectors-alimentacio\">https://decidim.barcelona/proposals/inspectors-alimentacio</a></p>", 
+            "id": 9978, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/controlar-las-emisiones-y-radiaciones-electromagneticas-nocivas\">https://decidim.barcelona/proposals/controlar-las-emisiones-y-radiaciones-electromagneticas-nocivas</a></p>", 
+            "id": 9985, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/millorar-la-qualitat-d-aigua-potable-per-evitar-el-consum-d-aigua-de-les-ampolles-de-plastic\">https://decidim.barcelona/proposals/millorar-la-qualitat-d-aigua-potable-per-evitar-el-consum-d-aigua-de-les-ampolles-de-plastic</a></p>", 
+            "id": 9986, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/salut-comunitaria-a-traves-de-projectes-socials-i-comunitaris\">https://decidim.barcelona/proposals/salut-comunitaria-a-traves-de-projectes-socials-i-comunitaris</a></p>", 
+            "id": 10004, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/establir-col-laboracions-amb-centres-esportius\">https://decidim.barcelona/proposals/establir-col-laboracions-amb-centres-esportius</a></p>", 
+            "id": 10021, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/recuperar-la-figura-de-les-mediadores-agents-femenins-en-salut-comunitaria\">https://decidim.barcelona/proposals/recuperar-la-figura-de-les-mediadores-agents-femenins-en-salut-comunitaria</a></p>", 
+            "id": 10046, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }, 
+        {
+            "alignment": 0, 
+            "ancestry": null, 
+            "body": "<p><a href=\"https://decidim.barcelona/proposals/facilitar-l-acces-a-la-informacio-en-materia-de-salut\">https://decidim.barcelona/proposals/facilitar-l-acces-a-la-informacio-en-materia-de-salut</a></p>", 
+            "id": 10053, 
+            "modified_alignment": 99, 
+            "total_dislikes": 0, 
+            "total_likes": 0, 
+            "total_votes": 0
+        }
+    ], 
+    "info": {
+        "summary": "Ajudar a fer m\u00e9s efectiu l\u2019inter\u00e8s pels programes i les activitats de prevenci\u00f3 i promoci\u00f3 de la salut en l'\u00e0mbit comunitari: des dels plans comunitaris, la salut p\u00fablica, o l'atenci\u00f3 prim\u00e0ria, a partir de l'avaluaci\u00f3 d'experi\u00e8ncies, fins a la coordinaci\u00f3 dels actors i una planificaci\u00f3 conjunta.", 
+        "title": "Pla de salut comunit\u00e0ria", 
+        "total_comments": 62, 
+        "total_negative_comments": 0, 
+        "total_neutral_comments": 59, 
+        "total_positive_comments": 3, 
+        "total_votes": 17
+    }
+}
